@@ -2,9 +2,25 @@
 # Tips
 ssr://MS4yLjMuNDoxMjM0OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpNVEl6TkRVMk56ZzVNQzA5Lz9vYmZzcGFyYW09T0RnNE9EZzRPRGcmcHJvdG9wYXJhbT1PRGc0T0RnNE9EZyZyZW1hcmtzPTVhYUM1cGVnNXJPVjZJNjM1WS1XNXBhdzZJcUM1NEs1NkstMzZJR1U1N083NTY2aDU1Q0c1WkdZNkxTdDVMbXc1cGF3NTRtSTVweXM2TDJ2NUx1MiZncm91cD1UbE5NVGtWVVYwOVNTdw
 
-* SSRR
+* Vmess
 #
 vmess://YXV0bzpkZTU1YzVlZi1lMDZjLTQxMWUtODAxZi1jOWUyMTJiOGM4NmNAMjcuMTIyLjU3LjE5OToyNDQ0Mg?remarks=HK%20(%E4%BB%85%E6%94%AF%E6%8C%81IOS/iPadOS%E4%BD%BF%E7%94%A8)&obfs=none&mux=1
 
+# HK 1
+vmess://YXV0bzoxYTM2YjhhMy1lYTQ3LTRmNjYtOTg4My1iMDAxNWNhOTFjYTdANDIuMjM2Ljk0LjE0Ojgw?remarks=%E9%A6%99%E6%B8%AF01&obfsParam=us7.v2aky.club.cntce.cn&path=/&obfs=websocket
+
+#HK 2
+vmess://YXV0bzoxYTM2YjhhMy1lYTQ3LTRmNjYtOTg4My1iMDAxNWNhOTFjYTdAMTIyLjE5MC4zLjE0Ojgw?remarks=%E9%A6%99%E6%B8%AF02&obfsParam=us7.v2aky.club.cntce.cn&path=/&obfs=websocket
+
+#HK 3
+vmess://YXV0bzoxYTM2YjhhMy1lYTQ3LTRmNjYtOTg4My1iMDAxNWNhOTFjYTdAMTEzLjIwNy4xMDIuMTQ6ODA?remarks=%E9%A6%99%E6%B8%AF03&obfsParam=us7.v2aky.club.cntce.cn&path=/&obfs=websocket
+
+#JP 1
+vmess://YXV0bzoxYTM2YjhhMy1lYTQ3LTRmNjYtOTg4My1iMDAxNWNhOTFjYTdAdXNjbjIxLnZ0cjUuY29tOjgw?remarks=%E6%97%A5%E6%9C%AC01&obfsParam=uscn21.v2aky.club.cntce.cn&path=/pa&obfs=websocket
+
+#HK - HK
+vmess://YXV0bzoxYTM2YjhhMy1lYTQ3LTRmNjYtOTg4My1iMDAxNWNhOTFjYTdANjUuNTIuMTYyLjE0Mjo4MA?remarks=H-%E9%A6%99%E6%B8%AF%EF%BC%88%E7%9B%B4%E8%BF%9E%EF%BC%89&obfs=none
+
+* SSRR
 #
 ssr://MjcuMTIyLjU3LjE5OToxODQ0MzphdXRoX2NoYWluX2E6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6VGxOTVRrVlVWMDlTU3k0d05qRXcvP29iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjAmcHJvdG9wYXJhbT0mcmVtYXJrcz1TRXNnTlRCTlluQnpLT2l1cE9pdmdlV1FqdVc4Z09hVXZpayZncm91cD1UbE5NVGtWVVYwOVNTdw
