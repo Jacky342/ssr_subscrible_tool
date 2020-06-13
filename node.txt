@@ -4,7 +4,7 @@ ssr://MS4yLjMuNDoxMjM0OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYX
 
 * Vmess
 # Gigs HK
-vmess://YXV0bzpkZTU1YzVlZi1lMDZjLTQxMWUtODAxZi1jOWUyMTJiOGM4NmNAMjcuMTIyLjU3LjE5OToyNDQ0Mg?remarks=HK%20(%E4%BB%85%E6%94%AF%E6%8C%81IOS/iPadOS%E4%BD%BF%E7%94%A8)&obfs=none&mux=1
+vmess://YXV0bzo3NTA0YTIwNy1kNWE5LTRlYjItYWM4Ni04NWY3ZGFmMTdhYWVAMjcuMTIyLjU3LjE5OToyNDQ0Mg?remarks=HK%20(%E4%BB%85%E6%94%AF%E6%8C%81IOS/iPadOS%E4%BD%BF%E7%94%A8)&obfsParam=%7B%22congestion%22:true,%22header%22:%22wechat-video%22%7D&path=/&obfs=mkcp&mux=1
 
 # US 1
 vmess://YXV0bzo4MzM3Nzk1Zi05MjRkLTQxMDctYjhmNy05ODhhMTc3Y2RhNzNAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
