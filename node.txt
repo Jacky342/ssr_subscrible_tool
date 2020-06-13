@@ -5,21 +5,17 @@ ssr://MTI3LjkuOS45OjgzNzk6YXV0aF9jaGFpbl9hOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF
 ssr://MS4yLjMuNDoxMjM0OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpNVEl6TkRVMk56ZzVNQzA5Lz9vYmZzcGFyYW09T0RnNE9EZzRPRGcmcHJvdG9wYXJhbT1PRGc0T0RnNE9EZyZyZW1hcmtzPTVwZW41NG1JVTJoaFpHOTNjbTlqYTJWMDVwZWc1ck9WNUwyXzU1U29WbTFsYzNQbGpZX29ycTdvcnFMcG1JWHZ2SXpvcjdmb2daVG5zN3ZucnFIbmtJYmxrWmpvdEsza3ViRG1sckRuaVlqbW5LdyZncm91cD1UbE5NVGtWVVYwOVNTdw
 
 * Vmess
-# Gigs HK
-vmess://YXV0bzo3NTA0YTIwNy1kNWE5LTRlYjItYWM4Ni04NWY3ZGFmMTdhYWVAMjcuMTIyLjU3LjE5OToyNDQ0Mg?remarks=HK%20(%E4%BB%85%E6%94%AF%E6%8C%81IOS/iPadOS%E4%BD%BF%E7%94%A8)&obfsParam=%7B%22congestion%22:true,%22header%22:%22wechat-video%22%7D&path=/&obfs=mkcp&mux=1
+# Good For CT
+vmess://YXV0bzo5YjdiZmIwYi1lMmQwLTQ4MDUtYjY0Yi05M2M2ZWU0Y2EzMzNAY3RjYy0wMDQuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=%E6%8E%A8%E8%8D%90*%E7%94%B5%E4%BF%A1%E4%BC%98%E5%8C%96004&obfsParam=ctcc-004.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
-# US 1
-vmess://YXV0bzo4MzM3Nzk1Zi05MjRkLTQxMDctYjhmNy05ODhhMTc3Y2RhNzNAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
+# CN2 - 1
+vmess://YXV0bzpmYTZjZDExMC01MTlhLTRiZmYtOTVhNy02OGE5NDRiY2Y5NGNAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
-# US 2
-vmess://YXV0bzpmZDY4NjkzNy1jNDQ1LTQ0OGYtOTVkMS1hNjEzMGQ0Y2IzMzRAY24yLWdpYS0wMDIuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD02&obfsParam=cn2-gia-002.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
+# CN2 - 2
+vmess://YXV0bzo0YmRlYTNlZC1kMGRjLTQwMTMtYjY2MC1hYWJhNzQ5OTQ0NzdAY24yLWdpYS0wMDIuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD02&obfsParam=cn2-gia-002.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
-# UNI-HK
-vmess://YXV0bzo4ZTViYzc3ZC01NDViLTQzYTAtODExOS02Nzc5ZDhmMGYyNGJAY3VjYy0wMDUuY2xvdWRmcm9udC1zZWN1cmUtYXAtaGsuY29tOjQ0Mw?remarks=*%E6%8E%A8%E8%8D%90*%E8%81%94%E9%80%9A-%E9%A6%99%E6%B8%AF005&obfsParam=cucc-005.cloudfront-secure-ap-hk.com&path=/clientarea&obfs=websocket&tls=1
+# Good For CU
+vmess://YXV0bzpmYzc3ZThlZS00ZjMyLTQzYTctOThlNC1mNjQwYzA2MWU5ZjlAY3VjYy0wMDUuY2xvdWRmcm9udC1zZWN1cmUtYXAtaGsuY29tOjQ0Mw?remarks=*%E6%8E%A8%E8%8D%90*%E8%81%94%E9%80%9A-%E9%A6%99%E6%B8%AF005&obfsParam=cucc-005.cloudfront-secure-ap-hk.com&path=/clientarea&obfs=websocket&tls=1
 
-# ALI-HK
-vmess://YXV0bzo3YTM4MTk2ZC0zNjhkLTQ3M2UtODNmNi0wYTNhOWQ5YjFkNDFAYWxpLXNhcy0wMDEuY2xvdWRmcm9udC1zZWN1cmUtYXAtaGsuY29tOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF%E9%98%BF%E9%87%8C%E4%BA%91-001&obfsParam=ali-sas-001.cloudfront-secure-ap-hk.com&path=/clientarea&obfs=websocket&tls=1
-
-* SSRR
-#
-ssr://MjcuMTIyLjU3LjE5OToxODQ0MzphdXRoX2NoYWluX2E6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6VGxOTVRrVlVWMDlTU3k0Lz9yZW1hcmtzPVNFc2dOVEJOWW5CektPaXVwT2l2Z2VXUWp1VzhnT2FVdmlrJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjA
+#ALI - HK
+vmess://YXV0bzoyY2QxNjI1MS1lMTc1LTQ2ZjEtYmY5NC1mNWVlMDQ4Mzc2MDhAYWxpLXNhcy0wMDEuY2xvdWRmcm9udC1zZWN1cmUtYXAtaGsuY29tOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF%E9%98%BF%E9%87%8C%E4%BA%91-001&obfsParam=ali-sas-001.cloudfront-secure-ap-hk.com&path=/clientarea&obfs=websocket&tls=1
