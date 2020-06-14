@@ -22,5 +22,5 @@ vmess://YXV0bzozNTkyNjM4MC0wMTc0LTQ0ZTktYjgzMS0xMmJkNzc2ZGU2ZTRAY24yLWdpYS0wMDMu
 # Good For CU
 vmess://YXV0bzpiODRlMzg2NS1jOTk5LTRhNWYtYjc4YS1lMmNiZWFmOWMzOGVAY3VjYy0wMDUuY2xvdWRmcm9udC1zZWN1cmUtYXAtaGsuY29tOjQ0Mw?remarks=*%E6%8E%A8%E8%8D%90*%E8%81%94%E9%80%9A-%E9%A6%99%E6%B8%AF005&obfsParam=cucc-005.cloudfront-secure-ap-hk.com&path=/clientarea&obfs=websocket&tls=1
 
-#ALI - HK
-
+# Gigsgigs - HK - JP中转 50Mbps
+vmess://YXV0bzo0NWEyYWNjYy0zMzBlLTRjZTQtYTYwOC0yMTEwZTNjOTI2MTJAMjcuMTIyLjU3LjE5OToyNDU3NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%2050Mbps&obfsParam=%7B%22uplinkCapacity%22:%2250%22,%22downlinkCapacity%22:%22200%22,%22header%22:%22wechat-video%22%7D&obfs=mkcp&mux=1
