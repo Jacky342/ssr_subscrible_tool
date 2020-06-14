@@ -22,3 +22,4 @@ vmess://YXV0bzpiODRlMzg2NS1jOTk5LTRhNWYtYjc4YS1lMmNiZWFmOWMzOGVAY3VjYy0wMDUuY2xv
 
 # Gigsgigs - HK - JP中转 50Mbps
 vmess://YXV0bzo0NWEyYWNjYy0zMzBlLTRjZTQtYTYwOC0yMTEwZTNjOTI2MTJAMjcuMTIyLjU3LjE5OToyNDU3NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%2050Mbps&obfsParam=%7B%22uplinkCapacity%22:%2250%22,%22downlinkCapacity%22:%22200%22,%22header%22:%22wechat-video%22%7D&obfs=mkcp&mux=1
+
