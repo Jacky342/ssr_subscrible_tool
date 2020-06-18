@@ -21,7 +21,7 @@ vmess://YXV0bzo0MGZkNWJhZS04NmYzLTQ2OGQtYWFiZC1lYjg5Yjg3NmQ2MWJAY24yLWdpYS0wMDEu
 vmess://YXV0bzo0ZWY3ZGZlOS1jMTYyLTRlNjEtYTQ2Yy1hMTI2OTdkNGViYThAY24yLWdpYS0wMDIuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD02&obfsParam=cn2-gia-002.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
 # CN2 - 3
-vmess://YXV0bzo5MzEzMjE5MS1iMmY2LTQ4ZmEtODI4NC1lMzc0MzU0N2Q1ZjNAY24yLWdpYS0wMDMuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD03&obfsParam=cn2-gia-003.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
+vmess://YXV0bzo4YzgzYjE5Yy1kMzUzLTRlNzAtOThlNS04ZDgzMDM0Mjc0MGVAY24yLWdpYS0wMDMuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD03&obfsParam=cn2-gia-003.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
 # Gigsgigs - HK - JP中转 50Mbps
 vmess://YXV0bzo0NWEyYWNjYy0zMzBlLTRjZTQtYTYwOC0yMTEwZTNjOTI2MTJAMjcuMTIyLjU3LjE5OToyNDU3NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22uplinkCapacity%22:%2250%22,%22downlinkCapacity%22:%22200%22,%22header%22:%22wechat-video%22%7D&obfs=mkcp&mux=1
