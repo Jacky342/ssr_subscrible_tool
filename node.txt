@@ -3,4 +3,4 @@
 ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpPRGc0T0RnNE9EZy8_b2Jmc3BhcmFtPU9EZzRPRGc0T0RnJnByb3RvcGFyYW09T0RnNE9EZzRPRGcmcmVtYXJrcz01YWFDNXJLaDVweUo1cGktNTZTNjZJcUM1NEs1Nzd5TTZLLTM2SUdVNTdPNzZMU3Q1TG13NXBhdzU0bUk1cHlzJmdyb3VwPVRsTk1Ua1ZVVjA5U1N3
 
 # Gigsgigs - HK - JP中转 50Mbps
-vmess://YXV0bzo0NWEyYWNjYy0zMzBlLTRjZTQtYTYwOC0yMTEwZTNjOTI2MTJAMjcuMTIyLjU3LjE5OToyNDU3NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22uplinkCapacity%22:%2250%22,%22congestion%22:true,%22header%22:%22wechat-video%22,%22downlinkCapacity%22:%22200%22%7D&obfs=mkcp&mux=1
+vmess://YXV0bzo5ZDNkZmI4ZC00N2ZiLTRlMTgtYmE4ZC1iMmI1ZDkzNzA1NDZAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
