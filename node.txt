@@ -7,5 +7,3 @@ ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRscz
 vmess://YXV0bzo5ZDNkZmI4ZC00N2ZiLTRlMTgtYmE4ZC1iMmI1ZDkzNzA1NDZAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
 
 * SSR
-# Gigsgigs - HK - JP中转 50Mbps
-ssr://MjcuMTIyLjU3LjE5OToxOTQ0MzphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTpwbGFpbjpibk5zYm1WMGQyOXlhdy8_cmVtYXJrcz0mcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
