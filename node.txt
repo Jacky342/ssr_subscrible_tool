@@ -5,3 +5,6 @@ ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRscz
 * Vmess
 # Gigsgigs - HK - JP中转 50Mbps
 vmess://YXV0bzo3NjFiMTQ0MS1lZTM0LTQ3YjUtYWY2Ny02YWUzYjJhYmM3NThAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
+
+# CN2线路 美国01
+vmess://YXV0bzo4MjVlZDA2MC0xZGY3LTRjODItYmQwZi04ZmEwNDI0YWNiOTFAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
