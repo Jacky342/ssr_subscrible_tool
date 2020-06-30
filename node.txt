@@ -7,6 +7,3 @@ ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRscz
 * Vmess
 # Gigsgigs - HK - JP中转 50Mbps
 vmess://YXV0bzo3NjFiMTQ0MS1lZTM0LTQ3YjUtYWY2Ny02YWUzYjJhYmM3NThAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
-
-* Trojan
-trojan://okpBUb@91.220.202.82:443?allowInsecure=1&peer=download.windowsupdate.com#%E6%99%AE%E9%80%9A+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+(%E8%AF%95%E7%94%A82%E5%A4%A9)
