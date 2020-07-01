@@ -4,4 +4,4 @@ ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRscz
 
 * Vmess
 # Gigsgigs - HK - JP中转 50Mbps
-vmess://YXV0bzo3NjFiMTQ0MS1lZTM0LTQ3YjUtYWY2Ny02YWUzYjJhYmM3NThAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
+vmess://YXV0bzo3Y2VlY2JmNi1iYjk5LTRjYzgtYTcyZi03YTdhMTM5NDZmZDNAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
