@@ -6,5 +6,8 @@ ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRscz
 # Gigsgigs - HK - JP中转 50Mbps
 vmess://YXV0bzo3NjFiMTQ0MS1lZTM0LTQ3YjUtYWY2Ny02YWUzYjJhYmM3NThAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
 
+# # 加拿大节点 - 延迟较高
+vmess://YXV0bzo4M2MyZjNhOC1iNWVlLTExZWEtYWU5Zi0wMDUwNTY5MTdmMzRAY2EwLnFsaW9pbHAueHl6OjEwMDAw?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E8%8A%82%E7%82%B9%20-%20%E5%BB%B6%E8%BF%9F%E8%BE%83%E9%AB%98&path=/T6i5YVF9/&obfs=websocket
+
 # CN2线路 美国01
 vmess://YXV0bzo4MjVlZDA2MC0xZGY3LTRjODItYmQwZi04ZmEwNDI0YWNiOTFAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
