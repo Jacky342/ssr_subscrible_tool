@@ -1,7 +1,3 @@
 # 节点列表
-# 联系购买软件
-ssr://MTEzLjEwMy4xMTMuMTEzOjgzNzk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpPRGc0T0RnNE9EZy8_b2Jmc3BhcmFtPU9EZzRPRGc0T0RnJnByb3RvcGFyYW09T0RnNE9EZzRPRGcmcmVtYXJrcz1OLWFjaURYbWw2WG90YmZrdkpybGdaem1uSTNrdUlEbXJyWG1sN2JwbDdUdnZJem9yNmJtZzRYb3I3Zm5sWm5taElfbW5JdmxqNHZsbklnJmdyb3VwPVRsTk1Ua1ZVVjA5U1N3
-
-* Vmess
-# Gigsgigs - HK - JP中转 50Mbps
-vmess://YXV0bzo3Y2VlY2JmNi1iYjk5LTRjYzgtYTcyZi03YTdhMTM5NDZmZDNAbnNsbmV0d29yay5kdWNrZG5zLm9yZzozMDU5NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22header%22:%22wechat-video%22%7D&obfs=mkcp
+# Removed
+ssr://Y2hlY2s6MTphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOk1USXpORFUvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1VbVZ0YjNabFpDNCZncm91cD1UbE5NVGtWVVYwOVNTdw
