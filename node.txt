@@ -4,3 +4,9 @@ ssr://Y2hlY2s6MTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpibV
 
 # Microsoft Azure HK
 ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOmJtVjRhWFJoYkd4NS8_b2Jmc3BhcmFtPVkyNHVZbWx1Wnk1amIyMCZwcm90b3BhcmFtPU5ERXlNelE0TkRVNk1qWmpPREJrWkRJNE9XWXlOR0U1TVEmcmVtYXJrcz1UV2xqY205emIyWjBJRUY2ZFhKbElFaExLT2F3dU9TNWhlUzRqZW1aa09tQW55ayZncm91cD1UbE5NVGtWVVYwOVNTdw
+
+# US O230 Trojan
+trojan://dCVnNY@91.220.202.230:443?allowInsecure=1&peer=download.windowsupdate.com#%E6%99%AE%E9%80%9A+%C2%B7+%E7%BE%8E%E5%9B%BDUS+%C2%B7+O230
+
+# JP O228 Trojan
+trojan://dCVnNY@jp7bt8.wwap1.com:12011?allowInsecure=1&peer=download.windowsupdate.com#%E9%AB%98%E9%80%9F+%C2%B7+%E6%97%A5%E6%9C%ACJP+%C2%B7+O228+%C2%B7+%E4%B8%8A%E6%B5%B7%E4%B8%AD%E8%BD%AC%E4%BC%98%E5%8C%96
