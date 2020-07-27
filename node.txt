@@ -20,5 +20,11 @@ ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRscz
 # HK Azure
 vmess://YXV0bzpkNDY4YzhlNC1iNGQ5LTQwNDQtYWQ4Ny00MDY3YjI5NjA4YTJAMTM3LjExNi4xNjQuMTEzOjEwMDg2?remarks=*%E6%8E%A8%E8%8D%90*IPLC%E5%85%A8%E7%BD%91-%E9%A6%99%E6%B8%AFAzure%E4%B8%93%E7%BA%BF%20Vmess&obfsParam=137.116.164.113&path=/&obfs=websocket
 
+# 美国洛杉矶Google Cloud V2ray-1
+vmess://YXV0bzoyMmJlNmFlYy05ZjMwLTM2Y2YtOTJlZS0wOGJlN2JhZGZjMTdAdXMxLmNhdHNzci5jZjo0NDM?remarks=%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6Google%20Cloud%20V2ray-1&obfsParam=us1.catssr.cf&path=/v2ray&obfs=websocket&tls=1
+
+# 香港Google Cloud V2ray-2
+vmess://YXV0bzoyMmJlNmFlYy05ZjMwLTM2Y2YtOTJlZS0wOGJlN2JhZGZjMTdAaGsyLmNhdHNzci5jZjo0NDM?remarks=%E9%A6%99%E6%B8%AFGoogle%20Cloud%20V2ray-2&obfsParam=hk2.catssr.cf&path=/v2ray&obfs=websocket&tls=1
+
 **************************************************************
 # Zion Ladder
