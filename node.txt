@@ -24,7 +24,7 @@ ssr://aG55bjAxLnRlZHNjLmNjOjI4ODkwOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLj
 # HK Azure
 vmess://YXV0bzpkNDY4YzhlNC1iNGQ5LTQwNDQtYWQ4Ny00MDY3YjI5NjA4YTJAMTM3LjExNi4xNjQuMTEzOjEwMDg2?remarks=*%E6%8E%A8%E8%8D%90*IPLC%E5%85%A8%E7%BD%91-%E9%A6%99%E6%B8%AFAzure%E4%B8%93%E7%BA%BF%20Vmess&obfsParam=137.116.164.113&path=/&obfs=websocket
 
-# *备用*Eesti Vabariik
-vmess://YXV0bzpkMzZlZjE3Yi1jMjg2LTRmNGQtOWZhMy03M2EyMWZkZjc3ZjJANDUuMTQxLjEzNi4yMzU6MjY3MzA?remarks=%F0%9F%87%AA%F0%9F%87%AA*%E5%A4%87%E7%94%A8*Eesti%20Vabariik&obfs=none
+# *推荐*中国移动-az香港
+vmess://YXV0bzo3OWY1Mjg0My05OTIyLTQxZDctYTk1My00MjgyYTY0MmQ3YWZAYS53YW5kdS5idXp6OjUwMDAw?remarks=*%E6%8E%A8%E8%8D%90*%E5%B9%BF%E5%B7%9E%E7%A7%BB%E5%8A%A8-az%E9%A6%99%E6%B8%AF&obfs=websocket
 
 **************************************************************
