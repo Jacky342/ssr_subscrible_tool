@@ -21,12 +21,6 @@ ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRscz
 # *推荐*台湾彰化-中华电信 直连
 vmess://eyJwb3J0IjoiNTIwMDAiLCJwcyI6IirmjqjojZAq5Y+w5rm+5b2w5YyWLeS4reWNjueUteS/oSDnm7Tov54iLCJ0bHMiOiJub25lIiwiaWQiOiJlOTU5ZWU3OC05YTgxLTRmZDctOGVlZi05YWYxNDM3MGI3ZDIiLCJhaWQiOiIyIiwidiI6IjIiLCJob3N0IjoidGNhdC5jbyIsInR5cGUiOiJub25lIiwicGF0aCI6IlwvIiwibmV0Ijoid3MiLCJhZGQiOiJ0dzEuZGlyZWN0LnYycmF5LmxpIn0=
 
-# *推荐*台湾彰化-中华电信 中移中转
-vmess://eyJwb3J0IjoiNTIwMDEiLCJwcyI6IirmjqjojZAq5Y+w5rm+5b2w5YyWLeS4reWNjueUteS/oSDkuK3np7vkuK3ovawiLCJ0bHMiOiJub25lIiwiaWQiOiJlOTU5ZWU3OC05YTgxLTRmZDctOGVlZi05YWYxNDM3MGI3ZDIiLCJhaWQiOiIyIiwidiI6IjIiLCJob3N0IjoidGNhdC5jbyIsInR5cGUiOiJub25lIiwicGF0aCI6IlwvIiwibmV0Ijoid3MiLCJhZGQiOiJjbTEucmVsYXkudjJyYXkubGkifQ==
-
-# *推荐*香港 电信盈科HKT 直连
-vmess://eyJwb3J0IjoiNTIwMDAiLCJwcyI6IirmjqjojZAq6aaZ5rivIOeUteS/oeebiOenkUhLVCDnm7Tov54iLCJ0bHMiOiJub25lIiwiaWQiOiJlOTU5ZWU3OC05YTgxLTRmZDctOGVlZi05YWYxNDM3MGI3ZDIiLCJhaWQiOiIyIiwidiI6IjIiLCJob3N0IjoidGNhdC5jbyIsInR5cGUiOiJub25lIiwicGF0aCI6IlwvIiwibmV0Ijoid3MiLCJhZGQiOiJ0dzEuaWVwbC52MnJheS5saSJ9
-
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
