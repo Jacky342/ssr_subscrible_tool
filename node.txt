@@ -16,12 +16,8 @@ ssr://NjkuMzYuMTgyLjUyOjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU
 # 推荐*IPLC全网-俄罗斯试用服
 ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfYXV0aDpRM05yZHpaay8_b2Jmc3BhcmFtPU1UZ3pOMlF5TVRFekxtMXBZM0p2YzI5bWRDNWpiMjAmcHJvdG9wYXJhbT1NakV4TXpvelEwVm5OR0kmcmVtYXJrcz1LdWFPcU9pTmtDcEpVRXhENVlXbzU3MlJMZVNfaE9lOWwtYVdyLWl2bGVlVXFPYWNqZVdLb2VXWnFBJmdyb3VwPVRsTk1Ua1ZVVjA5U1NfQ2Ztb0JUZEhWa2FXOA
 
-# *备用*TW
-ssr://aG55bjAxLnRlZHNjLmNjOjI4ODkwOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6Ym1GMWRFWXovP29iZnNwYXJhbT1PVGszTmpBeU56azVOQzV0YVdOeWIzTnZablF1WTI5dCZwcm90b3BhcmFtPU1qYzVPVFE2TURjeE1ESTVhbUUmcmVtYXJrcz1LdVdraC1lVXFDcFVWdyZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
-
 **************************************************************
 # V2ray
-
 
 **************************************************************
 # V2ray IBM赞助SoftLayer
