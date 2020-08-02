@@ -21,6 +21,15 @@ ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRscz
 # *推荐*台湾彰化-中华电信 直连
 vmess://eyJwb3J0IjoiNTIwMDAiLCJwcyI6IirmjqjojZAq5Y+w5rm+5b2w5YyWLeS4reWNjueUteS/oSDnm7Tov54iLCJ0bHMiOiJub25lIiwiaWQiOiJlOTU5ZWU3OC05YTgxLTRmZDctOGVlZi05YWYxNDM3MGI3ZDIiLCJhaWQiOiIyIiwidiI6IjIiLCJob3N0IjoidGNhdC5jbyIsInR5cGUiOiJub25lIiwicGF0aCI6IlwvIiwibmV0Ijoid3MiLCJhZGQiOiJ0dzEuZGlyZWN0LnYycmF5LmxpIn0=
 
+# *推荐* 美国 v2ray
+vmess://YXV0bzphZjUwOTIyZi05MGNlLTM4ZWUtODFmOC00ZjBkMGI2NGY5ZGRAcmFjay50aWt0b2sucGFnZTo0NDM?remarks=*%E6%8E%A8%E8%8D%90*%E7%BE%8E%E5%9B%BD%20v2ray&obfsParam=rack.tiktok.page&path=/v2ray&obfs=websocket&tls=1
+
+# *推荐* 香港   
+vmess://YXV0bzphZjUwOTIyZi05MGNlLTM4ZWUtODFmOC00ZjBkMGI2NGY5ZGRAaGsudGlrdG9rLnBhZ2U6NDQz?remarks=*%E6%8E%A8%E8%8D%90*%E9%A6%99%E6%B8%AF%20v2ray%20Netflix&obfsParam=hk.tiktok.page&path=/v2ray&obfs=websocket&tls=1
+
+# *推荐* 新加坡 v2ray Netflix
+vmess://YXV0bzphZjUwOTIyZi05MGNlLTM4ZWUtODFmOC00ZjBkMGI2NGY5ZGRAc2cudGlrdG9rLnBhZ2U6NDQz?remarks=*%E6%8E%A8%E8%8D%90*%E6%96%B0%E5%8A%A0%E5%9D%A1%20v2ray%20Netflix&obfsParam=sg.tiktok.page&path=/v2ray&obfs=websocket&tls=1
+
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
