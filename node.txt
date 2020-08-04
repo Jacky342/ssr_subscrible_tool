@@ -17,6 +17,8 @@ ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRscz
 
 **************************************************************
 # V2ray
+# Microsoft Azure HK 上海中转(限速2M)
+vmess://YXV0bzpkNDY4YzhlNC1iNGQ5LTQwNDQtYWQ4Ny00MDY3YjI5NjA4YTJAMTM3LjExNi4xNjQuMTEzOjEwMDg2?remarks=Azure%20HK%E4%B8%AD%E8%BD%AC(%E7%A7%81%E4%BA%BA%E8%8A%82%E7%82%B9%E9%99%90%E9%80%9F2M)&obfsParam=137.116.164.113&path=/&obfs=websocket
 
 **************************************************************
 # V2ray IBM赞助SoftLayer
