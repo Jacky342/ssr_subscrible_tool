@@ -25,6 +25,9 @@ vmess://eyJwb3J0IjoiNDQzIiwicHMiOiIq5o6o6I2QKumYv+WnhuaWr+eJueS4uSBDbG91ZElubm92
 # 德国黑森 OVH
 vmess://eyJhZGQiOiI1MS4zOC45Ni4xNzQiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cuNjQ5MTEyNDAwNC54eXoiLCJpZCI6IjczMmE3NWRhLTNmNTYtNDIyNy05N2FlLWRhODc4ZDQwYTA3MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9mb290ZXJzIiwicG9ydCI6IjQ0MyIsInBzIjoiKuaOqOiNkCpJUExD5YWo572R6auY6YCfLeW+t+Wbvem7keajriIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+# *推荐*IPLC全网-意大利(Youtube 4K)
+vmess://eyJwb3J0IjoiNTQwMiIsInBzIjoiKuaOqOiNkCpJUExD5YWo572RLeaEj+Wkp+WIqShZb3V0dWJlIDRLKSIsInRscyI6Im5vbmUiLCJpZCI6IjNjNmJlZjczLTA0NTItNDM2Ni1hMzU5LTY4NTZjMmQxODc5YSIsImFpZCI6IjIzMyIsInYiOiIyIiwiaG9zdCI6IjQ1LjEzOC42OS4yMzYiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsIm5ldCI6IndzIiwiYWRkIjoiNDUuMTM4LjY5LjIzNiJ9
+
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
