@@ -16,6 +16,12 @@ ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRscz
 
 **************************************************************
 # V2ray
+# *推荐*香港 HKT 家宽
+vmess://eyJwb3J0IjoiNjQ3MTAiLCJwcyI6IirmjqjojZAq6aaZ5rivIEhLVCDlrrblrr0iLCJ0bHMiOiJub25lIiwiaWQiOiJhOGExNWJmYy1iMzVjLTM5ODYtYTZhMC1jZmYxMzcwM2RlYzgiLCJhaWQiOiIyMyIsInYiOiIyIiwiaG9zdCI6IiIsInR5cGUiOiJub25lIiwicGF0aCI6IiIsIm5ldCI6InRjcCIsImFkZCI6InhmaGt0MDEuZHludS5uZXQifQ==
+
+# *推荐*澳门 CTM 家宽
+vmess://eyJwb3J0IjoiNjMwMjIiLCJwcyI6IirmjqjojZAq5r6z6ZeoIENUTSDlrrblrr0iLCJ0bHMiOiJub25lIiwiaWQiOiJhOGExNWJmYy1iMzVjLTM5ODYtYTZhMC1jZmYxMzcwM2RlYzgiLCJhaWQiOiIyMyIsInYiOiIyIiwiaG9zdCI6IiIsInR5cGUiOiJub25lIiwicGF0aCI6IiIsIm5ldCI6InRjcCIsImFkZCI6Im1vZ28uZHludS5uZXQifQ==
+
 # Microsoft Azure HK 上海中转(限速2M)
 vmess://YXV0bzpkNDY4YzhlNC1iNGQ5LTQwNDQtYWQ4Ny00MDY3YjI5NjA4YTJAMTM3LjExNi4xNjQuMTEzOjEwMDg2?remarks=*%E5%A4%87%E7%94%A8*Azure%20HK%E4%B8%AD%E8%BD%AC(%E7%A7%81%E4%BA%BA%E8%8A%82%E7%82%B9%E9%99%90%E9%80%9F2M)&obfsParam=azure.microsoft.com&path=/&obfs=websocket
 
