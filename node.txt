@@ -37,6 +37,14 @@ vmess://eyJwb3J0IjoiNDQzIiwicHMiOiIq5o6o6I2QKumYv+WnhuaWr+eJueS4uSBDbG91ZElubm92
 # 德国黑森 OVH
 vmess://eyJhZGQiOiI1MS4zOC45Ni4xNzQiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cuNjQ5MTEyNDAwNC54eXoiLCJpZCI6IjczMmE3NWRhLTNmNTYtNDIyNy05N2FlLWRhODc4ZDQwYTA3MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9mb290ZXJzIiwicG9ydCI6IjQ0MyIsInBzIjoiKuaOqOiNkCpJUExD5YWo572R6auY6YCfLeW+t+Wbvem7keajriIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+# *备用*JP01
+vmess://eyJwb3J0IjoiNjQ3MTAiLCJwcyI6IirlpIfnlKgqSlAwMSIsInRscyI6Im5vbmUiLCJpZCI6ImE4YTE1YmZjLWIzNWMtMzk4Ni1hNmEwLWNmZjEzNzAzZGVjOCIsImFpZCI6IjIzIiwidiI6IjIiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIiwibmV0IjoidGNwIiwiYWRkIjoiNDUuNjMuMTI3LjIwNiJ9
+
+# *备用*KR01
+vmess://eyJwb3J0IjoiNjQ3MTAiLCJwcyI6IirlpIfnlKgqS1IwMSIsInRscyI6Im5vbmUiLCJpZCI6ImE4YTE1YmZjLWIzNWMtMzk4Ni1hNmEwLWNmZjEzNzAzZGVjOCIsImFpZCI6IjIiLCJ2IjoiMiIsImhvc3QiOiIiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJhZGQiOiIxNDEuMTY0LjM2LjIwIn0=
+
+# *备用*US01
+vmess://eyJwb3J0IjoiNjQ3MTAiLCJwcyI6IirlpIfnlKgqVVMwMSIsInRscyI6Im5vbmUiLCJpZCI6ImE4YTE1YmZjLWIzNWMtMzk4Ni1hNmEwLWNmZjEzNzAzZGVjOCIsImFpZCI6IjIiLCJ2IjoiMiIsImhvc3QiOiIiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJhZGQiOiJ1cy0xLmJwLmxpeXVuLmVkdS5wbCJ9
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
