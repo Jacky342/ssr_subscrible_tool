@@ -25,14 +25,9 @@ vmess://eyJhZGQiOiIxNTcuNTIuMTY4LjEyIiwiYWlkIjoiNTkiLCJob3N0IjoiNjI3ODdkN2M2NDYy
 # *备用*美国 洛杉矶
 vmess://eyJwb3J0IjoiNDQzIiwicHMiOiIq5aSH55SoKue+juWbvSDmtJvmnYnnn7YiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAxMWYxMTFkLWQ2YzktMzI5NC05OWIxLTZhNmM2NDZjMWMzMyIsImFpZCI6IjIiLCJ2IjoiMiIsImhvc3QiOiJsYXhnb25neWkyLmhqeW5vZGUuY29tIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiXC92MnJheSIsIm5ldCI6IndzIiwiYWRkIjoibGF4Z29uZ3lpMi5oanlub2RlLmNvbSJ9
 
-# *墙裂推荐*普通 HKT 商业宽频
-vmess://YXV0bzo1ZjhiOGI1NC03M2FjLTM1ZDUtOTBiOC0yMDAyNDFiZDA1Y2RAeGZoa3QwMS5keW51Lm5ldDo2NDcxMA?remarks=*%E5%A2%99%E8%A3%82%E6%8E%A8%E8%8D%90*%E6%99%AE%E9%80%9AHKT%E5%95%86%E4%B8%9A%E5%AE%BD%E9%A2%91&obfs=none
+**************************************************************
+# 答谢用户
 
-# *墙裂推荐*高级 HKT 商业宽频
-vmess://YXV0bzo1ZjhiOGI1NC03M2FjLTM1ZDUtOTBiOC0yMDAyNDFiZDA1Y2RAaGt0LTAwMy5saXl1bi5lZHUucGw6NjQ3MTA?remarks=*%E5%A2%99%E8%A3%82%E6%8E%A8%E8%8D%90*%E9%AB%98%E7%BA%A7HKT%E5%95%86%E4%B8%9A%E5%AE%BD%E9%A2%91&obfs=none
-
-# *墙裂推荐* 普通台湾HiNet
-vmess://YXV0bzo1ZjhiOGI1NC03M2FjLTM1ZDUtOTBiOC0yMDAyNDFiZDA1Y2RAdGFpcGVpLTAwMS5saXl1bi5lZHUucGw6NjQ3MTA?remarks=*%E5%A2%99%E8%A3%82%E6%8E%A8%E8%8D%90*%E6%99%AE%E9%80%9A%E5%8F%B0%E6%B9%BEHiNet&obfs=none
 
 **************************************************************
 # V2ray IBM赞助SoftLayer
