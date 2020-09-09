@@ -84,9 +84,11 @@ ssr://ZG8tdXMwNC54aWFvaG91emkuY2x1Yjo4Njc6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwOnRscz
 ssr://MTczLjgyLjIyNi41Mzo4Njc6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpSVFpIVFhkaC8_b2Jmc3BhcmFtPVpEQTFPV1l5T1RBeE5DNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TWprd01UUTZPV1phZEdKeCZyZW1hcmtzPVUxTlNMZWUtanVXYnZVMUQmZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
 
 **************************************************************
-# Amazon 72h
-vmess://YXV0bzphMGM2MTg0ZS1hMTczLTMzNDEtYTE2MS1hZTUyNTM5YjU4NDVAMTMuMjQ4LjIwMi45OTo0MDIwMg?remarks=Amazon%20US&obfsParam=13.248.202.99&path=/honda&obfs=websocket
+# Amazon HK-1 72h
+vmess://YXV0bzphMGM2MTg0ZS1hMTczLTMzNDEtYTE2MS1hZTUyNTM5YjU4NDVAMTMuMjQ4LjIwMi45OTo0MDIwMg?remarks=Amazon%20HK-1&obfsParam=13.248.202.99&path=/honda&obfs=websocket
 
+# Amazon HK-2 72h
+vmess://YXV0bzphMGM2MTg0ZS1hMTczLTMzNDEtYTE2MS1hZTUyNTM5YjU4NDVANzYuMjIzLjY1LjIzODo0MDIwMQ?remarks=Amazon%20HK-2&obfsParam=76.223.65.238&path=/v2ray&obfs=websocket
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
