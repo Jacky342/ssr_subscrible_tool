@@ -19,8 +19,7 @@ ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRscz
 
 **************************************************************
 # V2ray
-# Microsoft Azure HK 上海中转(限速30M)
-vmess://YXV0bzo4NDRkMWIwZi05NGE5LTRiN2YtOGUwOS1kYmI3MzRiYjY2M2JAMTMuNzUuMTEwLjEwNjo1MzQyMA?remarks=Microsoft%20Azure%20HK(%E9%99%90%E9%80%9F30M)&obfsParam=azure.microsoft.com&path=/&obfs=websocket
+
 
 **************************************************************
 # 答谢用户
