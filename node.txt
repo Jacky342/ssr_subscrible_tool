@@ -16,11 +16,6 @@ ssr://NjkuMzYuMTgyLjUyOjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU
 
 # IPLC 俄罗斯
 ssr://cnUtZnJlZS5kZG5zLW9ubHkueHl6OjE3MDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfYXV0aDpRM05yZHpaay8_b2Jmc3BhcmFtPU1UZ3pOMlF5TVRFekxtMXBZM0p2YzI5bWRDNWpiMjAmcHJvdG9wYXJhbT1NakV4TXpvelEwVm5OR0kmcmVtYXJrcz1LdWFPcU9pTmtDcEpVRXhENVlXbzU3MlJMZVNfaE9lOWwtYVdyLWl2bGVlVXFPYWNqZVdLb2VXWnFBJmdyb3VwPVRsTk1Ua1ZVVjA5U1NfQ2Ztb0JUZEhWa2FXOA
-
-**************************************************************
-# V2ray
-
-
 **************************************************************
 # 答谢用户
 #
@@ -83,33 +78,8 @@ ssr://ZG8tdXMwNC54aWFvaG91emkuY2x1Yjo4Njc6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwOnRscz
 ssr://MTczLjgyLjIyNi41Mzo4Njc6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpSVFpIVFhkaC8_b2Jmc3BhcmFtPVpEQTFPV1l5T1RBeE5DNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09TWprd01UUTZPV1phZEdKeCZyZW1hcmtzPVUxTlNMZWUtanVXYnZVMUQmZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
 
 **************************************************************
-# snode
-# 香港 网飞#255
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1NS5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23255&obfsParam=s255.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
+# v2ray
 
-# 香港 网飞#258
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1OC5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23258&obfsParam=s258.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#250
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1MC5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23250&obfsParam=s250.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#252
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1Mi5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23252&obfsParam=s252.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#257
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1Ny5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23257&obfsParam=s257.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#251
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1MS5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23251&obfsParam=s251.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#254
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1NC5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23254&obfsParam=s254.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#249
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI0OS5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23249&obfsParam=s249.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 香港 网飞#253
-vmess://YXV0bzpiNGQyNTBjNC0xMTY3LTNmNDktOTAzYS1lMDA1MzNkOTYzZTFAczI1My5zbm9kZS54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E7%BD%91%E9%A3%9E%23253&obfsParam=s253.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
