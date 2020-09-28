@@ -11,8 +11,8 @@ let base64 = util.base64
 let readSync = util.readSync
 let writeSync = util.writeSync
 
-let BUILD_DIR = 'dist' // 构建目录
-let ENTRY_FILE = './node.txt' // SS(R)入口
+let BUILD_DIR = 'dist' //构建目录
+let ENTRY_FILE = './node.txt' // SS / SSR(R)入口
 let str = readSync(ENTRY_FILE)
 
 let checker = item => {
