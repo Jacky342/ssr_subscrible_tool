@@ -1,7 +1,7 @@
 # 节点列表
 **************************************************************
 # Tips
-ssr://MTcyLjAuMC4xOjE6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpibVY0YVhSaGJHeDUvP29iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjAmcHJvdG9wYXJhbT0mcmVtYXJrcz1NakF5TUM0NUxqTXdJT2lfa09lN3REQTM1YmV5NXB1MDVwYXc2SXFDNTRLNSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
+ssr://MTcyLjAuMC4xOjE6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpibVY0YVhSaGJHeDUvP29iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjAmcHJvdG9wYXJhbT0mcmVtYXJrcz1NakF5TUM0eE1DNHhJT1M3by1lUWh1YWN1dVdacU9TNnV1VzNzdVM0dXVhQ3FPYWJ0T2FXc09pS2d1ZUN1USZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
 
 #剩余流量Tips
 ssr://MTcyLjAuMC4xOjg4ODphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOmJtVjRhWFJoYkd4NS8_b2Jmc3BhcmFtPVkyNHVZbWx1Wnk1amIyMCZwcm90b3BhcmFtPSZyZW1hcmtzPTVZbXA1TDJaNXJXQjZZZVBPdUtJbmlBZ0lPaV9oLWFjbi1hWHR1bVh0RHJpaUo0Jmdyb3VwPVRsTk1Ua1ZVVjA5U1NfQ2Ztb0JUZEhWa2FXOA
@@ -175,12 +175,45 @@ ssr://YmdwLmhhbmhhbmhhbi5tZToyMDA3OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6dGxzMS
 # 隧道-日本 Linode 04 - 4004 单端口
 ssr://YmdwLmhhbmhhbmhhbi5tZTo0MDA0OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOk5GVmhOV2d3Lz9vYmZzcGFyYW09T0RCak5XRXpPRFUyTlM1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1NemcxTmpVNlkydFRSelV4JnJlbWFya3M9NlpxbjZZR1RMZWFYcGVhY3JDQk1hVzV2WkdVZ01EUWdMU0EwTURBMElPV05sZWVyci1XUG93Jmdyb3VwPVRsTk1Ua1ZVVjA5U1NfQ2Ztb0JUZEhWa2FXOA
 **************************************************************
-# v2ray - 72h
-*推荐极速*Amazon HK - 1
-vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAOTkuODMuMTUyLjExMjo0MDIwMA?remarks=*%E6%8E%A8%E8%8D%90%E6%9E%81%E9%80%9F*Amazon%20HK%20-%201&obfsParam=Microsoft.com&path=/honda&obfs=websocket&alterId=2
-
-*推荐极速*Amazon HK - 2
-vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAOTkuODMuMTUyLjExMjo0MDIwMA?remarks=*%E6%8E%A8%E8%8D%90%E6%9E%81%E9%80%9F*Amazon%20HK%20-%202&obfsParam=Microsoft.com&path=/honda&obfs=websocket&alterId=2
+# v2ray - 
+# 德国原生IP
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYyLmtkcGQubWU6NDQzIiwNCiAgImFkZCI6ICIxMDQuMTkuNTkuMTY0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjMxMWU5NjhjLTAzOGUtMTFlYi1iNzAwLTUxMmYzNWUzOWUxMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInYyLmtkcGQubWUiLA0KICAicGF0aCI6ICIvSDlTTXR5M08vIiwNCiAgInRscyI6ICJ0bHMiDQp9
+**************************************************************
+# Trojan
+trojan://R1IT88@wjg195.wwtta1.com:443#HM~高速·香港🇭🇰>G
+trojan://R1IT88@hkn4169.wwtta1.com:443#HM~普通·香港🇭🇰>A
+trojan://R1IT88@hks1208.wwtta1.com:443#HM~普通·香港🇭🇰>B
+trojan://R1IT88@jpvb62.wwtta1.com:443#HM~普通·日本🇯🇵>A
+trojan://R1IT88@jpkn163.wwtta1.com:443#HM~普通·日本🇯🇵>B
+trojan://R1IT88@jpwb216.wwap1.com:443#HM~普通·日本🇯🇵>D
+trojan://R1IT88@jpum11.wwap1.com:443#HM~普通·日本🇯🇵>E
+trojan://R1IT88@jp5p199.wwap1.com:443#HM~普通·日本🇯🇵>F
+trojan://R1IT88@usmq139.wwtta1.com:443#HM~普通·美国🇺🇸>A
+trojan://R1IT88@us8299.wwtta1.com:443#HM~普通·美国🇺🇸>B
+trojan://R1IT88@us74138.wwap1.com:443#HM~高速·美国🇺🇸>C
+trojan://R1IT88@usr8230.wwap1.com:443#HM~普通·美国🇺🇸>C
+trojan://R1IT88@us8j132.wwtta1.com:443#HM~CN2·美国🇺🇸>A
+trojan://R1IT88@usdz123.wwtta1.com:443#HM~CN2·美国🇺🇸>B
+trojan://R1IT88@usjk117.wwtta1.com:443#HM~CN2·美国🇺🇸>D
+trojan://R1IT88@usc8134.wwtta1.com:443#HM~CN2·美国🇺🇸>E
+trojan://R1IT88@us1124.wwtta1.com:443#HM~CN2·美国🇺🇸>F
+trojan://R1IT88@twgm75.wwap1.com:443#HM~A原生·台湾Netflix 动画疯
+trojan://R1IT88@twzg134.wwap1.com:443#HM~B原生·台湾Netflix 动画疯
+trojan://R1IT88@twyk90.wwap1.com:443#HM~C原生·台湾Netflix 动画疯
+trojan://R1IT88@hkj4122.wwap1.com:443#HM~原生·香港🇭🇰>A> Netflix TVB
+trojan://R1IT88@hkzc6.wwap1.com:443#HM~原生·香港🇭🇰>B> Netflix TVB
+trojan://R1IT88@hkjd14.wwap1.com:443#HM~原生·香港🇭🇰>C> Netflix TVB
+trojan://R1IT88@hkt218.wwap1.com:443#HM~原生·香港🇭🇰>D> Netflix TVB
+trojan://R1IT88@usd196.wwtta1.com:443#HM~媒体·美国🇺🇸>B~ Netflix HBO
+trojan://R1IT88@usd229.wwtta1.com:443#HM~媒体·美国🇺🇸>C~ Netflix HBO
+trojan://R1IT88@usue240.wwtta1.com:443#HM~媒体·美国🇺🇸>D~ Netflix HBO
+trojan://R1IT88@hk02621.wwtta1.com:26443#HM~A备用香港🇭🇰低延迟限速10M
+trojan://R1IT88@hk02947.wwtta1.com:27443#HM~B备用香港🇭🇰低延迟限速10M
+trojan://R1IT88@hk02327.wwtta1.com:25443#HM~C备用香港🇭🇰低延迟限速10M
+trojan://R1IT88@hk02862.wwtta1.com:24443#HM~D备用香港🇭🇰低延迟限速10M
+trojan://R1IT88@hk02725.wwtta1.com:22443#HM~E备用香港🇭🇰低延迟限速10M
+trojan://R1IT88@hk02989.wwtta1.com:23443#HM~F备用香港🇭🇰低延迟限速10M
+trojan://R1IT88@hk02825.wwtta1.com:10443#HM~G备用香港🇭🇰低延迟限速10M
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
