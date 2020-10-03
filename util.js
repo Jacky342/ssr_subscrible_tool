@@ -1,7 +1,7 @@
 /**
  * Util module
  *
- * @author Andy Chung
+ * @author Jacky Chan
  * @date  2020-01-05
  */
 // Deps
