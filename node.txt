@@ -28,8 +28,8 @@ ssr://YXotc2lnMDEueGlhb2hvdXppLmNsdWI6ODY3OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMDp0bH
 ssr://YXotc2lnMDIueGlhb2hvdXppLmNsdWI6ODY3OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2F1dGg6UlRaSFRYZGgvP29iZnNwYXJhbT1aREExT1dZeU9UQXhOQzV0YVdOeWIzTnZablF1WTI5dCZwcm90b3BhcmFtPU1qa3dNVFE2T1daYWRHSngmcmVtYXJrcz1VMU5TTFVGYVZWSkZMZWFXc09XS29PV2RvVEF5Jmdyb3VwPVRsTk1Ua1ZVVjA5U1NfQ2Ztb0JUZEhWa2FXOA
 **************************************************************
 # v2ray
-
-
+# Tencent Cloud HK
+vmess://YXV0bzo4NmYxOTFmOS1lNGRhLTRiOWItODI5ZS0yOWFkMmQ4MDk4OTFAdHhoazMubWluZy5oZS5jbjo0NDM?remarks=Tencent%20Cloud%20HK&obfsParam=txhk3.ming.he.cn&path=/1c2b92/&obfs=websocket&tls=1&alterId=2
 **************************************************************
 # Trojan
 
