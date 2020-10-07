@@ -31,11 +31,35 @@ ssr://YXotc2lnMDIueGlhb2hvdXppLmNsdWI6ODY3OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMDp0bH
 ssr://NDcuNTYuMTc0LjIxNDoxMTAwOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTphMmxrZVM0eE9URTUvP29iZnNwYXJhbT1ZMnh2ZFdSbWNtOXVkQzVqYjIwJnByb3RvcGFyYW09JnJlbWFya3M9UVd4cFEyeHZkV1FnU0VzZ01YZ2c1YXFTNUwyVCZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
 **************************************************************
 # v2ray
-# Tencent Cloud HK
-vmess://YXV0bzo4NmYxOTFmOS1lNGRhLTRiOWItODI5ZS0yOWFkMmQ4MDk4OTFAdHhoazMubWluZy5oZS5jbjo0NDM?remarks=Tencent%20Cloud%20HK&obfsParam=txhk3.ming.he.cn&path=/1c2b92/&obfs=websocket&tls=1&alterId=2
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDEuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2001%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=01.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDIuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2002%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=02.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDMuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2003%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=03.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDQuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2004%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=04.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDUuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2005%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=05.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDYuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2006%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=06.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDcuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2007%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=07.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDguSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2008%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=08.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzo3MjY4YWQyZi02YmFmLTRjNWMtYmQzOC02OGM1YmU5MjFhZDhAMDkuSEtHLkFTSUEuQklHQUlSUE9SVC5ORVQ6ODA?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Direct%20connection%2009%20%E7%94%B5%E4%BF%A1%E6%8E%A8%E8%8D%90&obfsParam=09.HKG.ASIA.BIGAIRPORT.NET&path=/&obfs=websocket&alterId=2
+
 **************************************************************
 # Trojan
-
 
 **************************************************************
 # V2ray IBM赞助SoftLayer
