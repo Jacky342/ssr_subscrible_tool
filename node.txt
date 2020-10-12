@@ -2,8 +2,6 @@
 **************************************************************
 # 思科系统(中国)网络技术有限公司合作商
 # 京ICP备05085544号-1
-# ssr://MTI3LjAuMC4xOjgwODA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOk9EQTRNRGd3T0RBLz9vYmZzcGFyYW09T0RBNE1EZ3dPREEmcHJvdG9wYXJhbT1PREE0TURnd09EQSZyZW1hcmtzPTVvQ2Q1NmVSNTdPNzU3dWZLT1M0cmVXYnZTbm52WkhudTV6bWlvRG1uS19tbklucG1aRGxoYXpsajdqbWpvam1uWU0mZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
-
 # Tips
 ssr://MTcyLjAuMC4xOjE6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpibVY0YVhSaGJHeDUvP29iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjAmcHJvdG9wYXJhbT0mcmVtYXJrcz1NakF5TUM0eE1DNHhNaURvdjVEbnU3VGx0N0xtbTdUbWxyRG9pb0xuZ3JrJmdyb3VwPVRsTk1Ua1ZVVjA5U1NfQ2Ztb0JUZEhWa2FXOA
 
@@ -19,11 +17,8 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
 **************************************************************
 # v2ray
-#
+# Azure HK
 vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MTA0MA?remarks=%E9%A6%99%E6%B8%AFAZ%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89-%201&obfsParam=microsoft.com&path=/dwn&obfs=websocket&alterId=2
-
-#
-vmess://YXV0bzo2NGM2MGExNy02ODczLTRhZjctYmIzNS04ZTE1OGZlNTBjYTFANTQuMTk2LjE5My4zMzo2MTYzMA?remarks=Amazon%20US&obfs=none&alterId=0
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
