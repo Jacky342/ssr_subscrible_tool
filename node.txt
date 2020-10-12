@@ -3,7 +3,7 @@
 # 思科系统(中国)网络技术有限公司合作商
 # 京ICP备05085544号-1
 # ssr://MTI3LjAuMC4xOjgwODA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOk9EQTRNRGd3T0RBLz9vYmZzcGFyYW09T0RBNE1EZ3dPREEmcHJvdG9wYXJhbT1PREE0TURnd09EQSZyZW1hcmtzPTVvQ2Q1NmVSNTdPNzU3dWZLT1M0cmVXYnZTbm52WkhudTV6bWlvRG1uS19tbklucG1aRGxoYXpsajdqbWpvam1uWU0mZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
-**************************************************************
+
 # Tips
 ssr://MTcyLjAuMC4xOjE6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpibVY0YVhSaGJHeDUvP29iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjAmcHJvdG9wYXJhbT0mcmVtYXJrcz1NakF5TUM0eE1DNDFJT1M3by1lUWh1YWN1dVdacU9TNnV1VzNzdVM0dXVhQ3FPYWJ0T2FXc0EmZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
 
@@ -15,18 +15,12 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 **************************************************************
 # Node
 # SSR
-# HKT
-ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9VzFOVFVsMGc2YWFaNXJpdlNFdFU1WldHNUxpYSZncm91cD0
+# HK
+ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
 **************************************************************
 # v2ray
 #
-vmess://eyJhZGQiOiI1NC4yMzcuMjEwLjIzMyIsImFpZCI6IjAiLCJob3N0IjoiQW1hem9uLmNvbSIsImlkIjoiMjQyYTNiNTktN2EyYi00OTRhLTk1ZTItNDE4MjI3YjBlM2QwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyNjQwMyIsInBzIjoiQW1hem9uIFVTIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-#
 vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MTA0MA?remarks=%E9%A6%99%E6%B8%AFAZ%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89-%201&obfsParam=microsoft.com&path=/dwn&obfs=websocket&alterId=2
-
-**************************************************************
-# Trojan
-
 **************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
