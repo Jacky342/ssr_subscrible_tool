@@ -20,9 +20,6 @@ ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 # Azure HK
 vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MTA0MA?remarks=%E9%A6%99%E6%B8%AFAZ%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89-%201&obfsParam=microsoft.com&path=/dwn&obfs=websocket&alterId=2
 
-# NSLNET
-vmess://YXV0bzo2MWQwODcyNy0yZGZmLTRkZjItODVjZS1lNjJmZDhmMDY3NGNAdXMtbnNsLmR1Y2tkbnMub3JnOjQ0Mw?remarks=NSLNETWORK%E7%A7%81%E6%9C%89%E7%BE%8E%E5%9B%BD%E7%BA%BF%E8%B7%AF%E4%BD%93%E9%AA%8C&obfsParam=us-nsl.duckdns.org&path=/&obfs=websocket&tls=1&alterId=0
-**************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
 vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAbHVuYW4udXMtc291dGguY2YuYXBwZG9tYWluLmNsb3VkOjgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E7%94%B5%E4%BF%A1%E5%8E%9F%E5%A7%8B&obfsParam=lunan.us-south.cf.appdomain.cloud&obfs=websocket
