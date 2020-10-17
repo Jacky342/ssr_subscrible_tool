@@ -18,7 +18,7 @@ ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 **************************************************************
 # v2ray
 # Azure HK
-vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MTA0MA?remarks=%E9%A6%99%E6%B8%AFAZ%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89-%201&obfsParam=microsoft.com&path=/dwn&obfs=websocket&alterId=2
+vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAMTMuMjQ4LjE4NC4xMTM6NDAyMDE?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=13.248.184.113&path=/v2ray&obfs=websocket&alterId=2
 
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
