@@ -20,6 +20,9 @@ ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 # Azure HK
 vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAMTMuMjQ4LjE4NC4xMTM6NDAyMDE?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=13.248.184.113&path=/v2ray&obfs=websocket&alterId=2
 
+#paoluyun Amazon HK
+vmess://YXV0bzo5MjEwNTllNS0xMGNhLTRiNjQtOWI5YS1lZTFkMjlmNjc2YWNAcGFvbHV6LnN0YXJsaW5rLmN4OjEwMDc3?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=Amazon.com&path=/&obfs=websocket&tfo=1
+
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
 vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAbHVuYW4udXMtc291dGguY2YuYXBwZG9tYWluLmNsb3VkOjgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E7%94%B5%E4%BF%A1%E5%8E%9F%E5%A7%8B&obfsParam=lunan.us-south.cf.appdomain.cloud&obfs=websocket
