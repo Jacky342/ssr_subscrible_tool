@@ -17,11 +17,15 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
 **************************************************************
 # v2ray
-# Azure HK
+# Amazon HK
 vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAMTMuMjQ4LjE4NC4xMTM6NDAyMDE?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=13.248.184.113&path=/v2ray&obfs=websocket&alterId=2
 
 #paoluyun Amazon HK
 vmess://YXV0bzo5MjEwNTllNS0xMGNhLTRiNjQtOWI5YS1lZTFkMjlmNjc2YWNAcGFvbHV6LnN0YXJsaW5rLmN4OjEwMDc3?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=Amazon.com&path=/&obfs=websocket&tfo=1
+
+# Azure HK
+vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MzEzMg?remarks=%E9%A6%99%E6%B8%AFAzure%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89&path=/dwn&obfs=websocket&alterId=2
+**************************************************************
 
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
