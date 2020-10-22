@@ -39,3 +39,5 @@ vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAMTA0LjE5LjE5NC4x
 
 # *IBM赞助*联通洛杉矶
 vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAMTA0LjE2LjYyLjE1Ojgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E8%81%94%E9%80%9A%E6%B4%9B%E6%9D%89%E7%9F%B6&obfsParam=tight-bonus-8607.12580.workers.dev&obfs=websocket
+
+**************************************************************
