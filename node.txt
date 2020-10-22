@@ -10,11 +10,13 @@ ssr://MTcyLjAuMC4xOjg4ODphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 
 #微信
 ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOmJtVjRhWFJoYkd4NS8_b2Jmc3BhcmFtPVkyNHVZbWx1Wnk1amIyMCZwcm90b3BhcmFtPSZyZW1hcmtzPTZMU3Q1TG13NWI2dTVMLWhPazVUVEU1RlZGZFBVa3N0TVEmZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
+
 **************************************************************
 # Node
 # SSR
 # HK
 ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
+
 **************************************************************
 # v2ray
 # Amazon HK
@@ -25,6 +27,7 @@ vmess://YXV0bzo5MjEwNTllNS0xMGNhLTRiNjQtOWI5YS1lZTFkMjlmNjc2YWNAcGFvbHV6LnN0YXJs
 
 # Azure HK
 vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MzEzMg?remarks=%E9%A6%99%E6%B8%AFAzure%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89&path=/dwn&obfs=websocket&alterId=2
+
 **************************************************************
 
 # V2ray IBM赞助SoftLayer
