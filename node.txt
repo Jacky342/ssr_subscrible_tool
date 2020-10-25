@@ -26,7 +26,7 @@ vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAMTMuMjQ4LjE4NC4x
 vmess://YXV0bzo5MjEwNTllNS0xMGNhLTRiNjQtOWI5YS1lZTFkMjlmNjc2YWNAcGFvbHV6LnN0YXJsaW5rLmN4OjEwMDc3?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=Amazon.com&path=/&obfs=websocket&tfo=1
 
 # Azure HK
-vmess://YXV0bzplM2I1MWZkMC1mM2Y1LTRjMzctYTdiZC1jOGQ3ZDYwNjlmZjRANTIuMTc1LjE2LjEwODo2MzEzMg?remarks=%E9%A6%99%E6%B8%AFAzure%EF%BC%88%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F%EF%BC%89&path=/dwn&obfs=websocket&alterId=2
+vmess://eyJhZGQiOiI0MC44My4xMTguODIiLCJhaWQiOiIyIiwiaG9zdCI6IiIsImlkIjoiZWZkNTg2NjgtMTM1NS0xMWViLWFiNzEtMDBlMDAyNzkwYmY1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2F6U3BKeDhtLyIsInBvcnQiOiIxMTM1NSIsInBzIjoi6aaZ5rivQVogMDEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 **************************************************************
 
