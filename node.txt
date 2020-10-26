@@ -19,12 +19,6 @@ ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 
 **************************************************************
 # v2ray
-# Amazon HK
-vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAMTMuMjQ4LjE4NC4xMTM6NDAyMDE?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=13.248.184.113&path=/v2ray&obfs=websocket&alterId=2
-
-#paoluyun Amazon HK
-vmess://YXV0bzo5MjEwNTllNS0xMGNhLTRiNjQtOWI5YS1lZTFkMjlmNjc2YWNAcGFvbHV6LnN0YXJsaW5rLmN4OjEwMDc3?remarks=%E9%A6%99%E6%B8%AF%20Amazon&obfsParam=Amazon.com&path=/&obfs=websocket&tfo=1
-
 # Azure HK
 vmess://eyJhZGQiOiI0MC44My4xMTguODIiLCJhaWQiOiIyIiwiaG9zdCI6IiIsImlkIjoiZWZkNTg2NjgtMTM1NS0xMWViLWFiNzEtMDBlMDAyNzkwYmY1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2F6U3BKeDhtLyIsInBvcnQiOiIxMTM1NSIsInBzIjoi6aaZ5rivQVogMDEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
