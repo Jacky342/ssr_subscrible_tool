@@ -23,7 +23,16 @@ ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bH
 vmess://eyJhZGQiOiI0MC44My4xMTguODIiLCJhaWQiOiIyIiwiaG9zdCI6IiIsImlkIjoiZWZkNTg2NjgtMTM1NS0xMWViLWFiNzEtMDBlMDAyNzkwYmY1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2F6U3BKeDhtLyIsInBvcnQiOiIxMTM1NSIsInBzIjoi6aaZ5rivQVogMDEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 **************************************************************
+# Amazon 炸裂速节点
+#
+vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFANzYuMjIzLjU3LjE2MTo0MDIwMw?remarks=Amazon%20%E6%B2%B9%E7%AE%A1%E7%82%B8%E8%A3%82%E9%80%9F%201&obfsParam=76.223.57.161&path=/honda&obfs=websocket&alterId=2
 
+#
+vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFANzUuMi4xOC45NDo0MDIwMQ?remarks=Amazon%20%E6%B2%B9%E7%AE%A1%E7%82%B8%E8%A3%82%E9%80%9F%202&obfsParam=75.2.18.94&path=/v2ray&obfs=websocket&alterId=2
+
+#
+vmess://YXV0bzphODQ5NzU1MS0zNDA3LTNjOWUtYTEyNi03ODM0MTAxYjVmNmFAMTMuMjQ4LjE3OS4xMTM6NDAyMDQ?remarks=Amazon%20%E6%B2%B9%E7%AE%A1%E7%82%B8%E8%A3%82%E9%80%9F%203&obfsParam=13.248.179.113&path=/v2ray&obfs=websocket&alterId=2
+**************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
 vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAbHVuYW4udXMtc291dGguY2YuYXBwZG9tYWluLmNsb3VkOjgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E7%94%B5%E4%BF%A1%E5%8E%9F%E5%A7%8B&obfsParam=lunan.us-south.cf.appdomain.cloud&obfs=websocket
