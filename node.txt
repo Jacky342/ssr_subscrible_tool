@@ -20,19 +20,6 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 # HK
 ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
 **************************************************************
-# CNIX
-# HK HKT 01
-ssr://bGluc2hpMDEuY2xhc2hjbG91ZC5jbHViOjQyMzg1Om9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOlRHZElXRUp3Lz9vYmZzcGFyYW09Wkc5M2JteHZZV1F1ZDJsdVpHOTNjM1Z3WkdGMFpTNWpiMjAmcHJvdG9wYXJhbT0mcmVtYXJrcz1TRXNnU0V0VUlEQXgmZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
-
-**************************************************************
-#V2ray
-# JP BJ
-vmess://YXV0bzozMDUzODEyOC0xOTI3LTExZWItYTFhYi0wMDEzNWQxMzI3OGZANTQuMjIyLjIzMC4xNDg6MTAyNTA?remarks=%E6%97%A5%E6%9C%AC%EF%BD%9C%E5%8C%97%E4%BA%AC%EF%BD%9CNF&path=/odhv7q6T/&obfs=websocket&alterId=2
-
-# HK AWS
-vmess://YXV0bzozZmJhYTIxYy0xY2JiLTExZWItYmFlNS0wNmY3NDY4ZjVmOTJAMTguMTYyLjE0Ny4yMTA6MTkwMDA?remarks=%E9%A6%99%E6%B8%AFAWS&path=/PzviJLnK/&obfs=websocket&alterId=2
-
-**************************************************************
 # V2ray IBM赞助SoftLayer
 # *IBM赞助*电信原始
 vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAbHVuYW4udXMtc291dGguY2YuYXBwZG9tYWluLmNsb3VkOjgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E7%94%B5%E4%BF%A1%E5%8E%9F%E5%A7%8B&obfsParam=lunan.us-south.cf.appdomain.cloud&obfs=websocket
