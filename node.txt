@@ -19,15 +19,6 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 # SSR
 # HK
 ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
-**************************************************************
-# V2ray IBM赞助SoftLayer
-# *IBM赞助*电信原始
-vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAbHVuYW4udXMtc291dGguY2YuYXBwZG9tYWluLmNsb3VkOjgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E7%94%B5%E4%BF%A1%E5%8E%9F%E5%A7%8B&obfsParam=lunan.us-south.cf.appdomain.cloud&obfs=websocket
-
-# *IBM赞助*移动香港
-vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAMTA0LjE5LjE5NC4xNTo4MA?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E7%A7%BB%E5%8A%A8%E9%A6%99%E6%B8%AF&obfsParam=broad-night-015d.risotok347.workers.dev&obfs=websocket
-
-# *IBM赞助*联通洛杉矶
-vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAMTA0LjE2LjYyLjE1Ojgw?remarks=*IBM%E8%B5%9E%E5%8A%A9*%E8%81%94%E9%80%9A%E6%B4%9B%E6%9D%89%E7%9F%B6&obfsParam=tight-bonus-8607.12580.workers.dev&obfs=websocket
 
 **************************************************************
+vmess://YXV0bzo1ODVmZjQyZC1mNGM3LTNkOGUtOTI1NS0zOTk0ZjJkZTVkNTZAc2huYXQwMS5jb2FsY2xvdWQueHl6OjIwNjYx?remarks=%E9%A6%99%E6%B8%AFAGA-%E4%B8%8A%E6%B5%B7CN2&obfsParam=85f18627.microsoft.com&path=/v2ray&obfs=websocket&alterId=7
