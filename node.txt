@@ -17,8 +17,6 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 **************************************************************
 # Node
 # SSR
-# HK
-ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXY1TGl0NWJDUDVMeUI1cVd0NWEtczZhQzc1YkNJNTdlYSZncm91cD1UbE5NVGtWVVYwOVNTX0NmbW9CVGRIVmthVzg
-
+# HK New
+ssr://NzYuMjIzLjMzLjE2NjoxNTE2NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaWEJEYUVwVE16Vm1WZy8_cmVtYXJrcz04Si1IcmZDZmg3RHBwcG5tdUs5SlVFeEQmcHJvdG9wYXJhbT1Oakl6T204MmVHYzFhREUyWkdSbCZvYmZzcGFyYW09TW1RM05XVTJNak11WW1GcFpIVXVZMjl0
 **************************************************************
-vmess://YXV0bzo1ODVmZjQyZC1mNGM3LTNkOGUtOTI1NS0zOTk0ZjJkZTVkNTZAc2huYXQwMS5jb2FsY2xvdWQueHl6OjIwNjYx?remarks=%E9%A6%99%E6%B8%AFAGA-%E4%B8%8A%E6%B5%B7CN2&obfsParam=85f18627.microsoft.com&path=/v2ray&obfs=websocket&alterId=7
