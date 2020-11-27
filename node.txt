@@ -18,5 +18,8 @@ ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 # Node
 # SSR
 # HK New
-ssr://NzYuMjIzLjMzLjE2NjoxNTE2NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaWEJEYUVwVE16Vm1WZy8_cmVtYXJrcz04Si1IcmZDZmg3RHBwcG5tdUs5SlVFeEQmcHJvdG9wYXJhbT1Oakl6T204MmVHYzFhREUyWkdSbCZvYmZzcGFyYW09TW1RM05XVTJNak11WW1GcFpIVXVZMjl0
+ssr://NzYuMjIzLjMzLjE2NjoxNTE2NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaWEJEYUVwVE16Vm1WZy8_cmVtYXJrcz04Si1IcmZDZmg3RHBwcG5tdUs5SlVFeERMVWhMVkEmcHJvdG9wYXJhbT1Oakl6T204MmVHYzFhREUyWkdSbCZvYmZzcGFyYW09WTI0dVltbHVaeTVqYjIw
 **************************************************************
+# V2ray
+# buyvm-US
+vmess://YXV0bzoxNmZkOWY3Zi04NWMxLTRhNTYtYTA1NS03ODJkZDY5MGVkMTBAYnV5dm0uemhpeXVhbmllLnh5ejo0NDM?remarks=buyvm-US&obfsParam=buyvm.zhiyuanie.xyz&path=/331bb/&obfs=websocket&tls=1&alterId=10
