@@ -29,3 +29,6 @@ ssr://YWdhLm9oc3MuaWN1OjEwMDAxOmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6cGxhaW46TW
 # V2ray
 # buyvm-US
 vmess://YXV0bzoxNmZkOWY3Zi04NWMxLTRhNTYtYTA1NS03ODJkZDY5MGVkMTBAYnV5dm0uemhpeXVhbmllLnh5ejo0NDM?remarks=buyvm-US&obfsParam=buyvm.zhiyuanie.xyz&path=/331bb/&obfs=websocket&tls=1&alterId=10
+
+#
+vmess://YXV0bzo4NTUxN2IwZS1jODhmLTNhZWItYTZkYy1mZTAwZWQ4ZTg0NjRAMTMuMjQ4LjE0Ni42NToyMTAwMg?remarks=Vultr-top&obfsParam=www.bing.com&path=/v2ray&obfs=websocket&alterId=2
