@@ -14,11 +14,11 @@ ssr://MTcyLjAuMC4xOjg4ODphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2
 #微信
 ssr://MTcyLjAuMC4xOjk5OTphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOmJtVjRhWFJoYkd4NS8_b2Jmc3BhcmFtPVkyNHVZbWx1Wnk1amIyMCZwcm90b3BhcmFtPSZyZW1hcmtzPTZMU3Q1TG13NWI2dTVMLWhPazVUVEU1RlZGZFBVa3N0TVEmZ3JvdXA9VGxOTVRrVlVWMDlTU19DZm1vQlRkSFZrYVc4
 
+#即将更新
+ssr://NzYuMjIzLjMzLjE2NjoxNTE2NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaWEJEYUVwVE16Vm1WZy8_b2Jmc3BhcmFtPWFIUjBjRG92TDJocmRDNWpiMjB2UDJ4dlkyRnNaVDE2YUEmcHJvdG9wYXJhbT1Oakl6T204MmVHYzFhREUyWkdSbCZyZW1hcmtzPU1qQXlNQzR4TWk0eE15RG1tWm8zT2pBdzVwdTA1cGF3NklxQzU0SzUmZ3JvdXA9VGxOTTRweUk3N2lQVGtWVVYwOVNTdw
 **************************************************************
 # Node
 # SSR
-# HK New
-ssr://NzYuMjIzLjMzLjE2NjoxNTE2NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaWEJEYUVwVE16Vm1WZy8_cmVtYXJrcz04Si1IcmZDZmg3RHBwcG5tdUs5SlVFeERMVWhMVkEmcHJvdG9wYXJhbT1Oakl6T204MmVHYzFhREUyWkdSbCZvYmZzcGFyYW09WTI0dVltbHVaeTVqYjIw
 **************************************************************
 # V2ray
 # buyvm-US
@@ -32,9 +32,6 @@ vmess://YXV0bzoyODdjZDhlNy03MjRlLTMyODQtYjA3OS02M2Q5ZThjNmRmYzNAQkpTWC1HQlAuMjMz
 
 #
 vmess://YXV0bzo1NDUzZDA5MC03NDkzLTM3OTEtOGZjNC1jOTQxZDM5NzA0MGRANTguMzIuMC4yODoyNTA2NA?remarks=CN_329&path=/&obfs=websocket&alterId=2
-
-#
-vmess://YXV0bzpDOTQ4QTAxMy0wRDU1LTFFNzktRDQyMy1EMjhCMzQ5ODk1RjBAaGstYS5jbG91ZC5va3R0LmNjOjQ0Mw?remarks=%F0%9F%87%AD%F0%9F%87%B0%20HK_845&obfsParam=hk-a.cloud.oktt.cc&path=/gallary&obfs=websocket&tls=1&alterId=1
 
 #
 vmess://YXV0bzowYzFhOTA2Ny1kNGJlLTQxNTAtOTM4Ni02Yzc0NzRhZGMyN2FAdjJyYXktc2cxLnNlcnZlcnNzbC51czozMDk3Mw?remarks=%F0%9F%87%B8%F0%9F%87%AC%20SG_1476&path=/&obfs=none&alterId=64
