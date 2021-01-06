@@ -13,4 +13,4 @@ vmess://eyJhZGQiOiJidXl2bS56aGl5dWFuaWUueHl6IiwiYWlkIjoiMTAiLCJob3N0IjoiYnV5dm0u
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6YjhhNjY2NjQtNmQxMy0zOWQ5LWJkNDMtZTM5NDhlNmIzOTc5QGwxLWF3cy1oay0yMi5tdWd1bi54eXo6NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E6%9E%81%E9%80%9F%20%7CAGA%E7%94%B5%E4%BF%A1%E7%9B%B4%E8%BF%9E%7C%20x1.0&obfsParam=l1-aws-hk-22.mugun.xyz&path=/mugua&obfs=websocket
 
 #
-.
+vmess://YXV0bzo5ZTZjZWVmZi0yNTQ2LTM2OTAtYWMwMC02ZmNkZjMxZGVjOTRAMTA0LjE5LjMuMTI6NDQz?remarks=Cloudflare%20CDN%20%E7%A7%BB%E5%8A%A8%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9&obfsParam=freeus.mcan.tech&path=/y284&obfs=websocket&tls=1&alterId=2
