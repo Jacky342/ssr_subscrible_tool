@@ -5,6 +5,3 @@
 
 # 张嘉豪
 ssr://Y24yLmZsdXNoaW5neC5jb206MTQ4NzpvcmlnaW46cmM0LW1kNTpwbGFpbjpOell4TVRnMk5qRTROQS8_cmVtYXJrcz02YWFaNXJpdmZEbmxqN0RtbkkzbGlxSGxtYWpvdEpfb3ZiMTg2SXFDNTRLNTU1U3g1YnlnNVppSjZMR3E1by1RNUw2YiZwcm90b3BhcmFtPSZvYmZzcGFyYW09
-
-#Cloudflare CDN
-vmess://YXV0bzo5ZTZjZWVmZi0yNTQ2LTM2OTAtYWMwMC02ZmNkZjMxZGVjOTRAMTA0LjE5LjMuMTI6NDQz?remarks=Cloudflare%20CDN%20%E7%A7%BB%E5%8A%A8%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9&obfsParam=freeus.mcan.tech&path=/y284&obfs=websocket&tls=1&alterId=2
