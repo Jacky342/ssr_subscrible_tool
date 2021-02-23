@@ -9,21 +9,6 @@ ssr://Y24yLmZsdXNoaW5neC5jb206MTQ4NzpvcmlnaW46cmM0LW1kNTpwbGFpbjpOell4TVRnMk5qRT
 # DO 临时
 ssr://Y2xvdWQxLmFuY2xvdWQubWw6MzMzODk6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpSemRZUkVZdy8_cmVtYXJrcz01NzZPNVp1OThKLUh1dkNmaDdoRVR5M2xwSWZubEtnJnByb3RvcGFyYW09TVRNeE5qcElZWEJ2WkhWbCZvYmZzcGFyYW09WTI0dVltbHVaeTVqYjIw
 
-# 香港|A|7台负载|原生
-ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k1.flythere.xyz:41321/?plugin=obfs-local;obfs=http;obfs-host=67797e7666622532737777.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CA%7C7%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E5%8E%9F%E7%94%9F
-
-# 香港|B|8台负载|原生
-ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k2.flythere.xyz:41321?plugin=obfs-local;obfs=http;obfs-host=67797e766662253273707a74.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CB%7C8%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E5%8E%9F%E7%94%9F
-
-# 香港|C|9台负载|原生
-ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k3.flythere.xyz:41321/?plugin=obfs-local;obfs=http;obfs-host=67797e766662253273707f73.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CC%7C9%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E5%8E%9F%E7%94%9F
-
-# 香港|A|5台负载|非原生
-ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k1.flythere.xyz:41321/?plugin=obfs-local;obfs=http;obfs-host=67797e7666622532737477.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CA%7C5%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E9%9D%9E%E5%8E%9F%E7%94%9F
-
-# 香港|B|6台负载|非原生
-ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k2.flythere.xyz:41321/?plugin=obfs-local;obfs=http;obfs-host=67797e7666622532737679.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CB%7C6%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E9%9D%9E%E5%8E%9F%E7%94%9F
-
 # 香港HK 01 CDN国内优化
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6MTM2ODQ0M2EtYjA0YS0zNWVlLWJhZmYtMGQ3MDczZmMzODkwQGdsb2JhbC1jYW50b24taGstYS0wMS5tdWd1bi54eXo6NjAwMzY?remarks=%E9%A6%99%E6%B8%AFHK%2001%20%20CDN%E5%9B%BD%E5%86%85%E4%BC%98%E5%8C%96&obfsParam=global-canton-hk-a-01.mugun.xyz&path=/&obfs=websocket
 
