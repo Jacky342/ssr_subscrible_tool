@@ -20,3 +20,27 @@ vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaGs0LnNwZWVkc3Zp
 
 #阿里2
 vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaGsyLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E9%A6%99%E6%B8%AF%20%E9%98%BF%E9%87%8C%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%202&obfsParam=hk2.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#樱花1
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaG80LnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E6%97%A5%E6%9C%AC%20%E6%A8%B1%E8%8A%B1%20%E6%9E%81%E9%80%9F%20-%201&obfsParam=ho4.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#樱花2
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaG8yLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E6%97%A5%E6%9C%AC%20%E6%A8%B1%E8%8A%B1%20%E6%9E%81%E9%80%9F%20-%202&obfsParam=ho2.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#台湾1
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAdHcxLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E5%8F%B0%E6%B9%BE%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%20%E5%8A%A8%E6%80%81%20-%201&obfsParam=tw1.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#台湾2
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAdHcyLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E5%8F%B0%E6%B9%BE%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%20%E5%8A%A8%E6%80%81%20-%202&obfsParam=tw2.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#韩国1
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAb3JhMS5zcGVlZHN2aXAuY286NDQz?remarks=%E9%9F%A9%E5%9B%BD%20%E7%94%B2%E9%AA%A8%E6%96%87%20%E6%9E%81%E9%80%9F%20-%201&obfsParam=ora1.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#韩国2
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAb3JhMi5zcGVlZHN2aXAuY286NDQz?remarks=%E9%9F%A9%E5%9B%BD%20%E7%94%B2%E9%AA%A8%E6%96%87%20%E6%9E%81%E9%80%9F%20-%202&obfsParam=ora2.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#新加坡1
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAc2cxLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E8%85%BE%E8%AE%AF%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%201&obfsParam=sg1.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#新加坡2
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAc2cyLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E8%85%BE%E8%AE%AF%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%202&obfsParam=sg2.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
