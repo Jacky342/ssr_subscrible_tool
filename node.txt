@@ -8,3 +8,15 @@ ssr://MC4wLjAuMDo1ODA4OmF1dGhfY2hhaW5fYTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfZmFzdGF1dG
 
 # 张嘉豪
 ssr://Y24yLmZsdXNoaW5neC5jb206MTQ4NzpvcmlnaW46cmM0LW1kNTpwbGFpbjpOell4TVRnMk5qRTROQS8_cmVtYXJrcz1PZVdQc09hY2plV0tvZVdacU9pMG4taTl2WHpwbW9fbW5McmxtNzNscnJaODZJcUM1NEs1NTVTeDVieWc1WmlKNkxHcTVvLVE1TDZiJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+
+# 腾讯 1
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaGsxMy5zcGVlZHN2aXAuY286NDQz?remarks=%E9%A6%99%E6%B8%AF%20%E8%85%BE%E8%AE%AF%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%201&obfsParam=hk13.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#腾讯 2
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaGszLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E9%A6%99%E6%B8%AF%20%E8%85%BE%E8%AE%AF%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%202&obfsParam=hk3.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#阿里 1
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaGs0LnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E9%A6%99%E6%B8%AF%20%E9%98%BF%E9%87%8C%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%201&obfsParam=hk4.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
+
+#阿里2
+vmess://YXV0bzo4MTI0YjU5My03YmQ4LTNjOGQtYjNhZC0wZTMxZjc4ZTZhNTdAaGsyLnNwZWVkc3ZpcC5jbzo0NDM?remarks=%E9%A6%99%E6%B8%AF%20%E9%98%BF%E9%87%8C%E4%BA%91%20%E6%9E%81%E9%80%9F%20-%202&obfsParam=hk2.speedsvip.co&path=/live/cctv6_2/index.m3u8&obfs=websocket&tls=1&alterId=1
