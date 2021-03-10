@@ -47,12 +47,6 @@ vmess://YXV0bzphMThjODA3OS0zYmM3LTQwOGItYWY2Yi1jMzNiODcwYTgzYTNAZ3oudjJreS5jbzo0
 vmess://YXV0bzphMThjODA3OS0zYmM3LTQwOGItYWY2Yi1jMzNiODcwYTgzYTNAc2gudjJreS5jbzo0NTAy?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A11000M&obfsParam=xueshu.baidu.com&path=/&obfs=websocket&tfo=1&alterId=1
 
 * okme
-# 新加坡 阿里云01 okme
-vmess://YXV0bzo0ZDQ2NmZmNS00ODE3LTM4YTktYjUwOC04NTlkMWU1NTFkYjZAczU2LnNub2RlLnh5ejo0NDM?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E9%98%BF%E9%87%8C%E4%BA%9101%20okme&obfsParam=s56.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
-# 新加坡 阿里云02 okme
-vmess://YXV0bzo0ZDQ2NmZmNS00ODE3LTM4YTktYjUwOC04NTlkMWU1NTFkYjZAczY3LnNub2RlLnh5ejo0NDM?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E9%98%BF%E9%87%8C%E4%BA%9102%20okme&obfsParam=s67.snode.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
-
 # 韩国 Choopa okme
 vmess://YXV0bzo0ZDQ2NmZmNS00ODE3LTM4YTktYjUwOC04NTlkMWU1NTFkYjZAczM2Ni5zbm9kZXMueHl6OjQ0Mw?remarks=%E9%9F%A9%E5%9B%BD%20Choopa%20okme&obfsParam=s366.snodes.xyz&path=/panel&obfs=websocket&tls=1&alterId=1
 
