@@ -15,3 +15,7 @@ ssr://bnNsbmV0d29yay1oay5kdWNrZG5zLm9yZzo0NDM6YXV0aF9hZXMxMjhfc2hhMTpyYzQtbWQ1On
 
 # Azure JP
 ssr://bnNsbmV0d29yay1qcC5kdWNrZG5zLm9yZzo0NDM6YXV0aF9hZXMxMjhfc2hhMTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfYXV0aDpjSFZpYkdsak1ETXlOekF4TXpBek13Lz9yZW1hcmtzPVFYcDFjbVVnU2xBZ0xTQlFkV0pzYVdNJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjA
+
+* .即将到期
+# 中华电信
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6M2IzYWU5MTQtMmRjMi0zZjA0LWFmMTEtYzQ0OTIxNGRiMTcyQHR3MDAycGx6Lm15aWRjZGRucy5jb206MjgwODE?remarks=%E5%8F%B0%E6%B9%BE%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%20(%E5%89%A911G%20%E6%8A%93%E7%B4%A7%E7%94%A8)&obfsParam=www.bing.com&path=/api&obfs=websocket
