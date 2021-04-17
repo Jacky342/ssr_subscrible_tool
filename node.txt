@@ -58,3 +58,6 @@ vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJu
 
 # Amazon HK-3
 vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAaGswOC56bml1bml1Lnh5ejozMDgxMQ?remarks=Amazon%20HK-3&path=/&obfs=none&alterId=2
+
+# US 低延迟
+vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAdXMwMS56bml1bml1Lnh5ejozMDE0OQ?remarks=US%20%E4%BD%8E%E5%BB%B6%E8%BF%9F&path=/&obfs=none&alterId=2
