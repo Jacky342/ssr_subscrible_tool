@@ -55,3 +55,6 @@ vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAaGswMy56bml1bml1
 
 # Amazon HK-2
 vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJub2RlLnh5ejozMzAwOA?remarks=Amazon%20HK-2&obfsParam=18.167.94.61&path=/dog&obfs=websocket&alterId=1
+
+# Amazon HK-3
+vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAaGswOC56bml1bml1Lnh5ejozMDgxMQ?remarks=Amazon%20HK-3&path=/&obfs=none&alterId=2
