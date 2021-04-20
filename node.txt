@@ -59,17 +59,4 @@ ssr://MjAuNTIuMTQwLjE4MTo0NDM6YXV0aF9hZXMxMjhfc2hhMTpyYzQtbWQ1LTY6dGxzMS4yX3RpY2
 ssr://Y20tMS5zc3BsaW5rcy5wdzo3MDAxOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpJUS8_cmVtYXJrcz1Sa1JEVTJWeWRtVnlJRWhMSUMwZzVidTY2SzZ1NXJXUDZLZUk1NzJSNmFHMTVwZTI1TDJfNTVTbyZwcm90b3BhcmFtPU1qRXpOVEk2TW5odmNWZHQmb2Jmc3BhcmFtPU5HVXhOVEV5TVRNMU1pNXRhV055YjNOdlpuUXVZMjl0
 
 # . 非自建
-# Amazon HK-1
-vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAaGswMy56bml1bml1Lnh5ejozMDMwNg?remarks=Amazon%20HK-1&path=/&obfs=none&alterId=2
-
-# Amazon HK-2
-vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJub2RlLnh5ejozMzAwOA?remarks=Amazon%20HK-2&obfsParam=18.167.94.61&path=/dog&obfs=websocket&alterId=1
-
-# Amazon HK-3
-vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAaGswOC56bml1bml1Lnh5ejozMDgxMQ?remarks=Amazon%20HK-3&path=/&obfs=none&alterId=2
-
-# Linode SG-1
-vmess://YXV0bzpjOWUwMmEyMi1jNGI4LTM5YmQtYjc3NC0wNWI0MTU1OTQ4N2FAdjEtYXdzLXNnLTAxLnR1ZG9nLm1lOjgw?remarks=Linode%20SG-1&path=/tudog&obfs=websocket&alterId=2
-
-# US 低延迟
-vmess://YXV0bzpjNzUxNGMxNC04MjZlLTM4NGUtODEwNi00NWQ2OGNkYTUxNjlAdXMwMS56bml1bml1Lnh5ejozMDE0OQ?remarks=US%20%E4%BD%8E%E5%BB%B6%E8%BF%9F&path=/&obfs=none&alterId=2
+* 
