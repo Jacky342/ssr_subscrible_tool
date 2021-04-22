@@ -11,5 +11,15 @@ ssr://MC4wLjAuMDo1ODA4OmF1dGhfY2hhaW5fYTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfZmFzdGF1dG
 ssr://Y20tMS5zc3BsaW5rcy5wdzo3MDAxOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpJUS8_cmVtYXJrcz01YVNhNVktdzVweU41WXFoNVptbzVZaUg1bzJpTGVpMG4taTl2ZVdkaC1paG9TamxycUxtaUxmbWxLX2xpcWtwJnByb3RvcGFyYW09TWpFek5USTZNbmh2Y1ZkdCZvYmZzcGFyYW09TkdVeE5URXlNVE0xTWk1dGFXTnliM052Wm5RdVkyOXQ
 
 # . 非自建
-* Amazon JP-1
-vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY25sdC5haXJub2RlLnh5ejozMzAzMA?remarks=Amazon%20JP-1&obfsParam=18.182.23.65&path=/dog&obfs=websocket&alterId=1
+* Amazon JP
+vmess://YXV0bzozODczMDRiMi1lYTFlLTNmOTUtYWI0My0yOGUzMGFhMWVhNjNANTQuMTk5LjE1My42Mzo3NjU1?remarks=Amazon%20JP&obfsParam=54.199.153.63&path=/hls&obfs=websocket&alterId=2
+
+* Amazon KR
+vmess://YXV0bzozODczMDRiMi1lYTFlLTNmOTUtYWI0My0yOGUzMGFhMWVhNjNAMTMuMTI1LjI0MS4zNzo3NjMz?remarks=Amazon%20KR&obfsParam=13.125.241.37&path=/hls&obfs=websocket&alterId=2
+
+* Amazon HK
+vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJub2RlLnh5ejozMzAwOA?remarks=Amazon%20HK&obfsParam=18.167.94.61&path=/dog&obfs=websocket&alterId=1
+
+* Amazon SG
+vmess://YXV0bzpjOWUwMmEyMi1jNGI4LTM5YmQtYjc3NC0wNWI0MTU1OTQ4N2FAdjEtYXdzLXNnLTAxLnR1ZG9nLm1lOjgw?remarks=Amazon%20SG&path=/tudog&obfs=websocket&alterId=2
+
