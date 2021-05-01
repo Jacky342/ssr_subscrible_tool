@@ -22,9 +22,3 @@ vmess://YXV0bzozODczMDRiMi1lYTFlLTNmOTUtYWI0My0yOGUzMGFhMWVhNjNAMTMuMTI1LjI0MS4z
 
 * Amazon HK
 vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJub2RlLnh5ejozMzAwOA?remarks=Amazon%20HK&obfsParam=18.167.94.61&path=/dog&obfs=websocket&alterId=1
-
-* Amazon HK-2
-vmess://YXV0bzoyZjI1OTNmMy1kZDk1LTQzNDUtYTUxMS0xN2QyMDE5NjA3MjVAMTguMTYyLjEzMy4xMzo2NjY?remarks=Amazon%20HK-2&obfs=websocket&alterId=1
-
-* Amazon SG
-vmess://YXV0bzpjOWUwMmEyMi1jNGI4LTM5YmQtYjc3NC0wNWI0MTU1OTQ4N2FAdjEtYXdzLXNnLTAxLnR1ZG9nLm1lOjgw?remarks=Amazon%20SG&path=/tudog&obfs=websocket&alterId=2
