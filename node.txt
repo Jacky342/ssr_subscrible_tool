@@ -18,3 +18,6 @@ vmess://YXV0bzozODczMDRiMi1lYTFlLTNmOTUtYWI0My0yOGUzMGFhMWVhNjNAMTMuMTI1LjI0MS4z
 
 * Amazon HK
 vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJub2RlLnh5ejozMzAwOA?remarks=Amazon%20HK&obfsParam=18.167.94.61&path=/dog&obfs=websocket&alterId=1
+
+* Amazon JP VLESS
+vless://YXV0bzo3N2VjOWUyOC00Zjc1LTQzODEtYWI1My01ZTgzMGZjMDIyM2VAanAudGlhbnhpYTEzMTQuY246NDQz?remarks=TLS-AWS%E6%97%A5%E6%9C%AC-VLESS&path=/f453c8c/&obfs=websocket&tls=1
