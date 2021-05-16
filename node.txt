@@ -65,3 +65,6 @@ ssr://Y24tY20tZHJsNC5kbC5zdGVhbS5rc3luYS5lLWxvbGkueHl6OjM5MzQ3OmF1dGhfYWVzMTI4X3
 
 * *特别* 以色列 5月特供
 ssr://Y24tY20tZHJsNC5kbC5zdGVhbS5rc3luYS5lLWxvbGkueHl6OjM5NDA5OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpSMmhSY2tSVC8_cmVtYXJrcz1LdWVKdWVXSXF5b2c1THVsNklteTVZaVhJRFhtbklqbmlibmt2cHMmcHJvdG9wYXJhbT1ORE15T1RFNlkydExRbEZNJm9iZnNwYXJhbT0
+
+* *应急* 香港Amazon
+vmess://YXV0bzpjOGM5MmM0ZC04ZTZmLTRmMjQtYTg1Ny03NmZhMmVjYWFhMTZANTIuODEuNTAuMjM2OjgwMDA?remarks=*%E5%BA%94%E6%80%A5*%20%E9%A6%99%E6%B8%AFAmazon&obfsParam=baidu.com&path=/&obfs=websocket&alterId=1
