@@ -14,7 +14,7 @@ vmess://YXV0bzpjMmFhZDgyNy1hYTE3LTQyNmEtZDczMC02MWY1MzcxYTc2ZGFAcnUxLmhlaWhvbWUu
 
 # .自建
 
-# .非自建
+# .非自建 SSR
 * *优选* 香港沙田
 ssr://Y24tY20tZHJsNC5kbC5zdGVhbS5rc3luYS5lLWxvbGkueHl6OjM5NDE1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpSMmhSY2tSVC8_cmVtYXJrcz1LdVM4bU9tQWlTb2c2YWFaNXJpdjVyS1o1NVN3JnByb3RvcGFyYW09TkRNeU9URTZZMnRMUWxGTSZvYmZzcGFyYW09
 
@@ -68,3 +68,19 @@ ssr://Y24tY20tZHJsNC5kbC5zdGVhbS5rc3luYS5lLWxvbGkueHl6OjM5NDA5OmF1dGhfYWVzMTI4X3
 
 * *应急* 香港Amazon
 vmess://YXV0bzpjOGM5MmM0ZC04ZTZmLTRmMjQtYTg1Ny03NmZhMmVjYWFhMTZANTIuODEuNTAuMjM2OjgwMDA?remarks=*%E5%BA%94%E6%80%A5*%20%E9%A6%99%E6%B8%AFAmazon&obfsParam=baidu.com&path=/&obfs=websocket&alterId=1
+
+# .非自建 VMESS
+* *优选* 香港-广港 VMESS
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAam0teWQtZGQuY24tamlkaWFuLTAxLmNmOjQwMDAy?remarks=*%E4%BC%98%E9%80%89*%20%E9%A6%99%E6%B8%AF-%E5%B9%BF%E6%B8%AF%20VMESS&obfsParam=ajax.microsoft.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选* 香港-苏港 VMESS
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAY24tbnMtMDEuZ3VpZGVjbnMuY29tOjMxMDA1?remarks=*%E4%BC%98%E9%80%89*%20%E9%A6%99%E6%B8%AF-%E8%8B%8F%E6%B8%AF%20VMESS&obfsParam=ajax.microsoft.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选* 香港-常港 移动优化 VMESS
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAY24tbnMtMDIuZ3VpZGVjbnMuY29tOjI2MDAw?remarks=*%E4%BC%98%E9%80%89*%20%E9%A6%99%E6%B8%AF-%E5%B8%B8%E6%B8%AF%20%E7%A7%BB%E5%8A%A8%E4%BC%98%E5%8C%96%20VMESS&obfsParam=ajax.microsoft.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选* 香港-沪港1 VMESS
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAam0teWQtZGQuY24tamlkaWFuLTAxLmNmOjIyMDAy?remarks=*%E4%BC%98%E9%80%89*%20%E9%A6%99%E6%B8%AF-%E6%B2%AA%E6%B8%AF1%20VMESS&obfsParam=ajax.microsoft.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选* 香港-沪港2 VMESS
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAY24tbnMtMDIuZ3VpZGVjbnMuY29tOjI2MDAx?remarks=*%E4%BC%98%E9%80%89*%20%E9%A6%99%E6%B8%AF-%E6%B2%AA%E6%B8%AF2%20VMESS&obfsParam=ajax.microsoft.com&path=/v2ray&obfs=websocket&alterId=1
