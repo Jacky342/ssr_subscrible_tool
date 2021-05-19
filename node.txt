@@ -10,9 +10,7 @@ ssr://MS4xLjEuMjoxMTgyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZX
 
 # .自建
 * *限速* 香港微软Azure
-
-
-
+ssr://MjMuOTkuMTI3LjI0OjQ0MzphdXRoX2FlczEyOF9zaGExOnJjNC1tZDUtNjp0bHMxLjJfdGlja2V0X2F1dGg6Ym5Oc2JtVjBkMjl5YTJockxYWnBjRzl1YkhrLz9yZW1hcmtzPUt1bVprT21BbnlvZzZhYVo1cml2NWI2dTZMMnZRWHAxY21VJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1ZMjR1WW1sdVp5NWpiMjA
 
 # .非自建 SSR
 * *优选* 香港沙田
