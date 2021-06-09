@@ -120,3 +120,15 @@ vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAY24tbnMtMDIuZ3Vp
 
 * *优选V2* 台湾 中继BGP
 vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAcWQtMDEuYWxpLmZyZWV4eXouY2Y6MjExMDQ?remarks=*%E4%BC%98%E9%80%89V2*%20%E5%8F%B0%E6%B9%BE%20%E4%B8%AD%E7%BB%A7BGP&obfsParam=www.bing.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选V2* 台湾 直连-TW05
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAdHcwNXBsei5teWRkbnMucm9ja3M6MTgwODA?remarks=*%E4%BC%98%E9%80%89V2*%20%E5%8F%B0%E6%B9%BE%20%E7%9B%B4%E8%BF%9E-TW05&obfsParam=www.bing.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选V2* 台湾 直连-TW06
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAdHcwNnBsei5teWRkbnMucm9ja3M6MTgwODA?remarks=*%E4%BC%98%E9%80%89V2*%20%E5%8F%B0%E6%B9%BE%20%E7%9B%B4%E8%BF%9E-TW06&obfsParam=www.bing.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选V2* 台湾 直连-TW07
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAdHcwN3Bsei5teWRkbnMucm9ja3M6MTgwODA?remarks=*%E4%BC%98%E9%80%89V2*%20%E5%8F%B0%E6%B9%BE%20%E7%9B%B4%E8%BF%9E-TW07&obfsParam=www.bing.com&path=/v2ray&obfs=websocket&alterId=1
+
+* *优选V2* 台湾 直连-TW08
+vmess://YXV0bzpjYmUzODYwNi04ZjIzLTM3ZmMtYTQ4My1mZmZkMGQ1YzA2NzNAdHcwOHBsei5teWRkbnMucm9ja3M6MTgwODA?remarks=*%E4%BC%98%E9%80%89V2*%20%E5%8F%B0%E6%B9%BE%20%E7%9B%B4%E8%BF%9E-TW08&obfsParam=www.bing.com&path=/v2ray&obfs=websocket&alterId=1
