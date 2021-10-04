@@ -121,4 +121,3 @@ trojan://17211277-0c7e-400c-9330-3a27d4890a85@trasg1.bitznet.pw:21004#%F0%9F%87%
 
 # HiNet
 trojan://17211277-0c7e-400c-9330-3a27d4890a85@tratw1.bitznet.pw:21006#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE-%E6%A0%B8%E5%BF%83%E8%AE%BF%E9%97%AE+HiNet
-
