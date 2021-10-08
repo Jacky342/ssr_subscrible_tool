@@ -99,6 +99,9 @@ ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjM2MjU0Om9yaWdpbjphZXMtMjU2LW
 
 ***************************************************************
 # Trojan
+# HK HGC
+trojan://f7181df2-a412-4ff2-99da-77372ff30372@trahk5.bitznet.pw:21013#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%A0%B8%E5%BF%83%E8%AE%BF%E9%97%AE+HGC
+
 # HK Azure
 trojan://f7181df2-a412-4ff2-99da-77372ff30372@trahk1.bitznet.pw:21003#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%A0%B8%E5%BF%83%E8%AE%BF%E9%97%AE+Azure
 
