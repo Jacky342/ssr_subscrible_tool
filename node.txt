@@ -65,37 +65,38 @@ ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjM2MjU0Om9yaWdpbjphZXMtMjU2LW
 
 ***************************************************************
 # Vmess
-# 【推荐】中转*IPLC*上海-香港*CN2-GIA04
+# 【推荐】中转*IPLC*上海-香港*CN2
+vmess://eyJhZGQiOiJzaGNuMi0wMi5pcGxjMTg4LmNvbSIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiJlNjQ3Y2MyMy02ZWRkLTRhZGItODhmOC1kNDEyODIzZTdmZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAxIiwicHMiOiJCZXN0IVRyYW5zaXQqU2hhbmdoYWktSEsqQ04yLUdJQTAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+# 【推荐】中转*IPLC*上海-美国*CN2
+vmess://eyJhZGQiOiJzaGNuMi0wMi5pcGxjMTg4LmNvbSIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiJlNjQ3Y2MyMy02ZWRkLTRhZGItODhmOC1kNDEyODIzZTdmZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAyIiwicHMiOiJCZXN0IVRyYW5zaXQqU2hhbmdoYWktVVNBKkNOMi1HSUEwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-# 【推荐】中转*IPLC*上海-美国*CN2-GIA04
+# 【推荐】中转*IPLC*上海-欧洲*CN2
+vmess://eyJhZGQiOiJzaGNuMi0wMi5pcGxjMTg4LmNvbSIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiJlNjQ3Y2MyMy02ZWRkLTRhZGItODhmOC1kNDEyODIzZTdmZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDA0IiwicHMiOiJCZXN0IVRyYW5zaXQqU2hhbmdoYWktRXVyb3BlKkNOMi1HSUEwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
+# 【推荐】中转*IPLC*上海-香港HKT
+vmess://eyJhZGQiOiJzaGNuMi0wMi5pcGxjMTg4LmNvbSIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiJlNjQ3Y2MyMy02ZWRkLTRhZGItODhmOC1kNDEyODIzZTdmZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDA1IiwicHMiOiJCZXN0IVRyYW5zaXQqU2hhbmdoYWktSEtUKjAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-# 【推荐】中转*IPLC*上海-欧洲*CN2-GIA04
+# 【推荐】中转*IPLC*上海-美国AWS
+vmess://eyJhZGQiOiJzaGNuMi0wMi5pcGxjMTg4LmNvbSIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiJlNjQ3Y2MyMy02ZWRkLTRhZGItODhmOC1kNDEyODIzZTdmZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDA2IiwicHMiOiJCZXN0IVRyYW5zaXQqU2hhbmdoYWktVVMtQVdTKjAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+# 【低延迟】中转*广州移动-香港
+vmess://eyJhZGQiOiIxMTIuMzMuMzYuMTA5IiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6ImU2NDdjYzIzLTZlZGQtNGFkYi04OGY4LWQ0MTI4MjNlN2ZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMDEiLCJwcyI6IkxvdyBMYXRlbmN5IVRyYW5zaXQqR3Vhbmd6aG91LUhLMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# 【推荐】中转*IPLC*上海-香港HKT*04
+# 中转*广州移动-新加坡
+vmess://eyJhZGQiOiIxMTIuMzMuMzYuMTA5IiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6ImU2NDdjYzIzLTZlZGQtNGFkYi04OGY4LWQ0MTI4MjNlN2ZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMDIiLCJwcyI6IlRyYW5zaXQqR3Vhbmd6aG91LVNpbmdhcG9yZTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+# 中转*广州移动-日本东京
+vmess://eyJhZGQiOiIxMTIuMzMuMzYuMTA5IiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6ImU2NDdjYzIzLTZlZGQtNGFkYi04OGY4LWQ0MTI4MjNlN2ZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMDUiLCJwcyI6IlRyYW5zaXQqR3Vhbmd6aG91LVRva3lvMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# 【推荐】中转*IPLC*上海-美国AWS*04
+# 中转*广州移动-台北
+vmess://eyJhZGQiOiIxMTIuMzMuMzYuMTA5IiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6ImU2NDdjYzIzLTZlZGQtNGFkYi04OGY4LWQ0MTI4MjNlN2ZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMDMiLCJwcyI6IlRyYW5zaXQqR3Vhbmd6aG91LVRhaXBlaTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-
-# 【低延迟】中转*广州移动-香港*01
-
-
-# 中转*广州移动-新加坡*01
-
-
-# 中转*广州移动-日本东京*01
-
-
-# 中转*广州移动-台北*01
-
-
-# 中转*广州移动-洛杉矶*01
-
+# 中转*广州移动-洛杉矶
+vmess://eyJhZGQiOiIxMTIuMzMuMzYuMTA5IiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6ImU2NDdjYzIzLTZlZGQtNGFkYi04OGY4LWQ0MTI4MjNlN2ZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwMDQiLCJwcyI6IlRyYW5zaXQqR3Vhbmd6aG91LUxBWDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 # [教育网]香港直连02
+vmess://eyJhZGQiOiJoa2JncC0xMDBtMDIubmIxLmZyIiwiYWlkIjoiMSIsImhvc3QiOiJoa2JncC0xMDBtMDIubmIxLmZyIiwiaWQiOiJlNjQ3Y2MyMy02ZWRkLTRhZGItODhmOC1kNDEyODIzZTdmZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2xpZW50YXJlYSIsInBvcnQiOiI0NDMiLCJwcyI6IltDRVJORVRdRGlyZWN0LUhLMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiaGtiZ3AtMTAwbTAyLm5iMS5mciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 ***************************************************************
 # Trojan
