@@ -14,7 +14,7 @@ Rocket Rabbit(火箭兔)
 # Rocket Rabbit VPN
 # Vmess Googo(永久独占)
 # HK WARP
-vmess://eyJhZGQiOiJhei5nb29nby5pbiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0M2M0ZWE5Ny0wYjNlLTQ5ODEtODU2OC0yODEzNzc4ODgzMDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiNTAwNjAiLCJwcyI6IltWSVBdIOmmmea4r+mbhui0n+i9vSAoMTXlj7fmtYvor5XvvIzlkI7nu63kv53nlZnkuo7msLjkuYXlpZfppJApIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
 
 # SSR
 # 【推荐】IPLC专线上海-香港一_01
