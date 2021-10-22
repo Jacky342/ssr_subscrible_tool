@@ -13,11 +13,7 @@ ssr://djAwMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjk5OTk6YXV0aF9hZXMxMjhfc2hhMT
 # Rocket Rabbit VPN
 ***************************************************************
 # 测试
-# 香港-01(测试)
-ssr://ZGctaGstbm9kZTAxLmxpbmt0aGluay5hcHA6MTA1ODM6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6aHR0cF9wb3N0OllXSkxNRGxFTVVadVZnLz9vYmZzcGFyYW09JnByb3RvcGFyYW09TWpJMU5qRTNPa05YVlZKRVZucEpaMk0mcmVtYXJrcz02YWFaNXJpdkxUQXhLT2ExaS1pdmxTayZncm91cD1VbTlqYTJWMElGSmhZbUpwZEE
 
-# 香港-02(测试)
-ssr://NDIuMTU3LjE5Ni4xMDQ6MjA2MjQ6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfcG9zdDpRMWRUV25OalRHdHFaZy8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU1qSTFOakUzT2tOWFZWSkVWbnBKWjJNJnJlbWFya3M9NmFhWjVyaXZMVEF5S09hMWktaXZsU2smZ3JvdXA9VW05amEyVjBJRkpoWW1KcGRB
 ***************************************************************
 # SSR
 # 【推荐】IPLC专线上海-香港一_01
