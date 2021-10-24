@@ -13,6 +13,11 @@ ssr://djAwMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjk5OTk6YXV0aF9hZXMxMjhfc2hhMT
 # Rocket Rabbit VPN
 ***************************************************************
 # 测试
+# HKT-1
+vmess://eyJhZGQiOiJyeHpnenEubW9veC5pY3UiLCJhaWQiOiIxIiwiaG9zdCI6IiIsImlkIjoiZmU2NWEyZWQtMzg1ZS00MmNmLWEyMzEtMWFiYWMxMTY0OTBjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDAyNSIsInBzIjoi6aaZ5rivSEtU5Y6f55SfIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+# HKT-2
+vmess://eyJhZGQiOiJpY2FqbS5tb294LmljdSIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiJmZTY1YTJlZC0zODVlLTQyY2YtYTIzMS0xYWJhYzExNjQ5MGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQwMDAxIiwicHMiOiLpppnmuK9IS1Tljp/nlJ8gMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 ***************************************************************
 Rocket Rabbit(火箭兔)
