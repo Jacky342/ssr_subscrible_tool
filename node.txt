@@ -31,8 +31,6 @@ ssr://ejAwMDE2LnNlY3VyaXR5Y2xvdWRmcm9udC1jZG4uY29tOjExNjg1Om9yaWdpbjphZXMtMjU2LW
 * KR - 1
 trojan://8c7cc0ad-87e8-4eb3-9b97-1a36a3f5c92f@kl.pbaplink.xyz:48511#%E9%9F%A9%E5%9B%BD1
 
-* KR - 2
-trojan://8c7cc0ad-87e8-4eb3-9b97-1a36a3f5c92f@k11.pbaplink.xyz:48500#%E9%9F%A9%E5%9B%BD2
 ***************************************************************
 * 暂无节点
 * *****
