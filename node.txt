@@ -31,6 +31,8 @@ ssr://ejAwMDE2LnNlY3VyaXR5Y2xvdWRmcm9udC1jZG4uY29tOjExNjg1Om9yaWdpbjphZXMtMjU2LW
 * KR - 1
 trojan://3abd32bf-3d73-438f-8b5d-eff30c6b716e@kl.pbaplink.xyz:48511?allowInsecure=1&peer=kl.pbaplink.xyz&tfo=1#%E9%9F%A9%E5%9B%BD1
 
+* KR -2
+trojan://3abd32bf-3d73-438f-8b5d-eff30c6b716e@k11.pbaplink.xyz:48500?peer=k11.pbaplink.xyz&tfo=1#%E9%9F%A9%E5%9B%BD2%20%E7%A6%8F%E5%88%A9
 ***************************************************************
 * 暂无节点
 * *****
