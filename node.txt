@@ -33,6 +33,18 @@ trojan://2705ad00-8320-4c90-b6af-c096eaef2dd3@hncu.relay.qchwnd.moe:10202?allowI
 
 * JP - 2
 trojan://2705ad00-8320-4c90-b6af-c096eaef2dd3@azhk.relay.qchwnd.moe:10202?allowInsecure=1&peer=jp1.alinkrelay.com&tfo=1#%E6%97%A5%E6%9C%AC%E4%B8%AD%E8%BD%AC2
+
+* 韩国
+ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZrcnNsLmR1YWxub2RlLnB3OjM2MDA5#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD-%E9%A6%96%E5%B0%94%28DualStar%29
+
+* 美国
+ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZ1c2xhLmR1YWxub2RlLnB3OjM2MDAy#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD-%E6%B4%9B%E6%9D%89%E7%9F%B6%28DualStar%29
+
+* 新加坡
+ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZzZ3NnLmR1YWxub2RlLnB3OjM2MDA3#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%8B%AE%E5%9F%8E%28DualStar%29
+
+* 香港-新界
+ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZoa2FiLmR1YWxub2RlLnB3OjM2MDE3#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%96%B0%E7%95%8C%28DualStar%29
 ***************************************************************
 * 暂无节点
 * *****
