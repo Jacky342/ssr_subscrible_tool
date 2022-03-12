@@ -20,31 +20,39 @@ ssr://ejAwMDE2LnNlY3VyaXR5Y2xvdWRmcm9udC1jZG4uY29tOjExNjg1Om9yaWdpbjphZXMtMjU2LW
 ***************************************************************
 # 节点链接
 * SSR & SS
-* *****
-无
+🇭🇰香港-核心访问 Kirino(bitz🛸提供)
+ss://YWVzLTI1Ni1nY206MTQxNWI5N2MtMDRiNC00MDgxLWI4ZGMtMzFmNWIxMDU3ZDU5QHRyYWhrMS5iaXR6bmV0LmNsb3VkOjMyNDQz#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%A0%B8%E5%BF%83%E8%AE%BF%E9%97%AE%20Kirino(bitz%F0%9F%9B%B8%E6%8F%90%E4%BE%9B)
+
+🇭🇰香港-核心访问 HKT(bitz🛸提供)
+ss://YWVzLTI1Ni1nY206MTQxNWI5N2MtMDRiNC00MDgxLWI4ZGMtMzFmNWIxMDU3ZDU5QHRyYWhrNS5iaXR6bmV0LmNsb3VkOjMyMDAw#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%A0%B8%E5%BF%83%E8%AE%BF%E9%97%AE%20HKT(bitz%F0%9F%9B%B8%E6%8F%90%E4%BE%9B)
+
+🇭🇰香港-港岛(DualStar提供)
+ss://YWVzLTI1Ni1nY206NmQ0YmFhMTktODRmZS00ZjViLWFiYmUtNzQ4NDdmNjYzZDdlQGhrYmdwLmR1YWxub2RlLnB3OjM2NDQz#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%B8%AF%E5%B2%9B(DualStar%E6%8F%90%E4%BE%9B)
+
+🇭🇰香港-荃湾(DualStar提供)
+ss://YWVzLTI1Ni1nY206NmQ0YmFhMTktODRmZS00ZjViLWFiYmUtNzQ4NDdmNjYzZDdlQGZoa2hnYy5kdWFsbm9kZS5wdzozNjAyNA#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E8%8D%83%E6%B9%BE(DualStar%E6%8F%90%E4%BE%9B)
+
+🇭🇰香港-新界(DualStar提供)
+ss://YWVzLTI1Ni1nY206NmQ0YmFhMTktODRmZS00ZjViLWFiYmUtNzQ4NDdmNjYzZDdlQGZoa2FiLmR1YWxub2RlLnB3OjM2MDE3#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%96%B0%E7%95%8C(DualStar%E6%8F%90%E4%BE%9B)
 ***************************************************************
 * Vmess
 * *****
 无
 ***************************************************************
 * Trojan
-* JP - 1
-trojan://2705ad00-8320-4c90-b6af-c096eaef2dd3@hncu.relay.qchwnd.moe:10202?allowInsecure=1&peer=jp1.alinkrelay.com&tfo=1#%E6%97%A5%E6%9C%AC%E4%B8%AD%E8%BD%AC%201
+🇸🇬 新加坡3•华南入口
+trojan://c27d3f5b-c9ea-42aa-8df5-d84fa47e23f0@gdcm2.relay.qchwnd.moe:10221?allowInsecure=1&peer=sg3.alink.qchwnd.moe#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%E2%80%A2%E5%8D%8E%E5%8D%97%E5%85%A5%E5%8F%A3%E2%80%A21x
 
-* JP - 2
-trojan://2705ad00-8320-4c90-b6af-c096eaef2dd3@azhk.relay.qchwnd.moe:10202?allowInsecure=1&peer=jp1.alinkrelay.com&tfo=1#%E6%97%A5%E6%9C%AC%E4%B8%AD%E8%BD%AC2
+🇭🇰 香港2•HKT•流媒解锁
+trojan://c27d3f5b-c9ea-42aa-8df5-d84fa47e23f0@azhk.relay.qchwnd.moe:60602?allowInsecure=1&peer=hkt.node.qchwnd.moe#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%E2%80%A2HKT%E2%80%A2%E6%B5%81%E5%AA%92%E8%A7%A3%E9%94%81%E2%80%A22x
 
-* 韩国
-ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZrcnNsLmR1YWxub2RlLnB3OjM2MDA5#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD-%E9%A6%96%E5%B0%94%28DualStar%29
+🇭🇰 香港5•华南入口2•HGC•流媒
+trojan://c27d3f5b-c9ea-42aa-8df5-d84fa47e23f0@gdcm2.relay.qchwnd.moe:60609?allowInsecure=1&peer=hk.node.qchwnd.moe#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%E2%80%A2%E5%8D%8E%E5%8D%97%E5%85%A5%E5%8F%A32%E2%80%A2HGC%E2%80%A2%E6%B5%81%E5%AA%92%E2%80%A22x
 
-* 美国
-ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZ1c2xhLmR1YWxub2RlLnB3OjM2MDAy#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD-%E6%B4%9B%E6%9D%89%E7%9F%B6%28DualStar%29
+🇦🇺 澳大利亚1
+trojan://c27d3f5b-c9ea-42aa-8df5-d84fa47e23f0@gdcm.relay.qchwnd.moe:10213?allowInsecure=1&peer=au1.alink.qchwnd.moe#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1%E2%80%A21x
 
-* 新加坡
-ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZzZ3NnLmR1YWxub2RlLnB3OjM2MDA3#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%8B%AE%E5%9F%8E%28DualStar%29
 
-* 香港-新界
-ss://YWVzLTI1Ni1nY206Njk0YTQ4ZDYtMjBkNS00M2JhLWIxN2EtNmUxNjJiZGJmMDkyQGZoa2FiLmR1YWxub2RlLnB3OjM2MDE3#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF-%E6%96%B0%E7%95%8C%28DualStar%29
 ***************************************************************
 * 暂无节点
 * *****
