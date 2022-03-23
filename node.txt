@@ -38,9 +38,6 @@ ss://YWVzLTI1Ni1nY206NzExOGU1OTItMGVlNC00MzAyLWIxNjUtZDkyMmYwZmRmYzgxQHRyYXNrMS5
 trojan://2878a345-c140-43c2-9f73-fd63de9b678e@azhk.node.qchwnd.moe:10204?peer=cdn.qchwnd.moe#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E2%80%A2%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E2%80%A21x(FastLink%E6%8F%90%E4%BE%9B)
 
 #
-trojan://2878a345-c140-43c2-9f73-fd63de9b678e@us1.alink.qchwnd.moe:10219#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD1%E2%80%A2%E6%B5%81%E5%AA%92%E8%A7%A3%E9%94%81%E2%80%A21x(FastLink%E6%8F%90%E4%BE%9B)
-
-#
 vmess://YXV0bzoyODc4YTM0NS1jMTQwLTQzYzItOWY3My1mZDYzZGU5YjY3OGVAbGVvbmd1YW5nemhvdS5hc3VzY29tbS5jb206MjAwMDA?remarks=%F0%9F%87%A8%F0%9F%87%B3%20%E5%8D%8E%E5%8D%97%E2%80%A21x%E5%9B%9E%E5%9B%BD%E7%BA%BF%E8%B7%AF(FastLink%E6%8F%90%E4%BE%9B)&path=/v2ray-path&obfs=websocket&alterId=0
 ***************************************************************
 End
