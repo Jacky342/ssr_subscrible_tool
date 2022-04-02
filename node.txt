@@ -5,7 +5,7 @@
 ***************************************************************
 # Tips
 * WeChat
-ssr://MC4wLjAuMDo1ODA4OmF1dGhfY2hhaW5fYTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfZmFzdGF1dGg6WVRGaU1tTS8_cmVtYXJrcz04Si1VbDFkbFkyaGhkRHBPVTB4T1JWUlhUMUpMTFRFJnByb3RvcGFyYW09TUEmb2Jmc3BhcmFtPU1B
+ssr://MC4wLjAuMDo1ODA4OmF1dGhfY2hhaW5fYTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfZmFzdGF1dGg6WVRGaU1tTS8_b2Jmc3BhcmFtPU1BJnByb3RvcGFyYW09TUEmcmVtYXJrcz04Si1VbDFkbFkyaGhkRHBTYjJOclpYUlNZV0ppYVhSZk1RJmdyb3VwPVVtOWphMlYwSUZKaFltSnBkQQ
 ***************************************************************
 # Rocket Rabbit VPN
 # 公告 1 - Timeout
