@@ -15,9 +15,6 @@ ssr://ejAwMDE2LnNlY3VyaXR5Y2xvdWRmcm9udC1jZG4uY29tOjExNjg1Om9yaWdpbjphZXMtMjU2LW
 **************************************************************
 # 节点列表
 # Free
-Jacky C., [2022/5/24 23:11]
-vmess://YXV0bzo2ZTllZWFlNi1jM2QxLTQzOWUtOWY3YS0yMTNmZTA5YjJkYmVAZ3kubW9vbmZyZWUudG9wOjE3MjUz?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%201(%E9%99%90%E9%80%9F)&obfsParam=ocrb2.moonfree.top&path=/&obfs=websocket&tls=1&peer=ocrb2.moonfree.top&alterId=0
-
 Jacky C., [2022/5/24 23:25]
 ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZUAyMTMuMTgzLjUzLjIwODo5MDU4#%E4%BF%84%E7%BD%97%E6%96%AF%201(%E9%99%90%E9%80%9F)
 
