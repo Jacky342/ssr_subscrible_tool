@@ -15,7 +15,7 @@ ssr://ejAwMDE2LnNlY3VyaXR5Y2xvdWRmcm9udC1jZG4uY29tOjExNjg1Om9yaWdpbjphZXMtMjU2LW
 **************************************************************
 # 节点列表
 # Free
-
+vmess://YXV0bzo1YTk2NDczNy0wZjQ5LTRhNDItOWE3MC1iMjczMjA3ZWNmNWVAMTI5LjIyNi4yMTYuMTUwOjE2OTg0?remarks=%E8%85%BE%E8%AE%AF%E4%BA%91%20%E6%96%B0%E5%8A%A0%E5%9D%A1(%E9%99%90%E9%80%9F)&obfs=none&alterId=0
 
 # Miru
 
