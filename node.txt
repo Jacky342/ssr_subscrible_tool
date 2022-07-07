@@ -35,9 +35,6 @@ vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDlhOTJkYmQtNzgyOC0zNmUyLWIwZjktZGZjODcwNDhmN2Jl
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDlhOTJkYmQtNzgyOC0zNmUyLWIwZjktZGZjODcwNDhmN2JlQDE3My4yMTEuNDIuMTExOjIwMDE0?remarks=%E7%BE%8E%E5%9B%BD-01&obfsParam=173.211.42.111&path=/index&obfs=websocket&alterId=0
 
 #
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDlhOTJkYmQtNzgyOC0zNmUyLWIwZjktZGZjODcwNDhmN2JlQDE3My4yMTEuNDIuMTExOjMwMDE0?remarks=%E7%BE%8E%E5%9B%BD-02&obfsParam=173.211.42.111&path=/index&obfs=websocket&alterId=0
-
-#
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDlhOTJkYmQtNzgyOC0zNmUyLWIwZjktZGZjODcwNDhmN2JlQGd5Y2QxLmNzY2NkZC54eXo6MjI2MDE?remarks=%E9%9F%A9%E5%9B%BD-01&obfsParam=gycd1.csccdd.xyz&path=/index&obfs=websocket&alterId=0
 
 #
