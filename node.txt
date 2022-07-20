@@ -8,8 +8,7 @@
 
 
 # 公告 1 - 备注公告 1
-
-ssr://MTM3Ljc0LjE0MS40Mjo4MDphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6WVc1a2NtOXBaSE56Y2cvP3JlbWFya3M9TGcmcHJvdG9wYXJhbT1PRGsxT1RVNU5UayZvYmZzcGFyYW09TmpnMU9UVTVPRGc
+无
 
 # 公告 2 - 备注公告 2
 无
