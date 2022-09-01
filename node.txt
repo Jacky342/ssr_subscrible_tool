@@ -22,12 +22,6 @@ Jacky C., [2022/8/17 3:01]
 trojan://ef86e3ce-dffe-4385-a20c-b218af70bb99@e8e4ad34-301f-4b6a-929c-c02a7bdc7859.62dd6326-6357-4c87-94b7-06e277adea7c.c3b3b423-4c53-4570-bff7-462da591030b.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2002%20%7C%20%E7%9B%B4%E8%BF%9E
 
 Jacky C., [2022/9/1 16:26]
-trojan://ef86e3ce-dffe-4385-a20c-b218af70bb99@sg1.18878a24-49d8-4fb2-a1e3-f37dce7cf2a8.718be37e-804f-4696-968e-948430a90029.b1a0a095-825a-4ab6-8f9a-6cc9cb171dd2.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%20%E7%9B%B4%E8%BF%9E
-
-Jacky C., [2022/9/1 16:26]
-trojan://ef86e3ce-dffe-4385-a20c-b218af70bb99@sg2.18878a24-49d8-4fb2-a1e3-f37dce7cf2a8.718be37e-804f-4696-968e-948430a90029.b1a0a095-825a-4ab6-8f9a-6cc9cb171dd2.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%20%7C%20%E7%9B%B4%E8%BF%9E
-
-Jacky C., [2022/9/1 16:26]
 trojan://ef86e3ce-dffe-4385-a20c-b218af70bb99@jp01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2001%20%7C%20%E7%9B%B4%E8%BF%9E
 
 Jacky C., [2022/9/1 16:26]
