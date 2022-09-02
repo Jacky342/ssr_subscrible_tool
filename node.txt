@@ -27,8 +27,12 @@ trojan://b2799939-b293-4355-a51a-c2317c88afc9@e8e4ad34-301f-4b6a-929c-c02a7bdc78
 Jacky C., [2022/9/1 23:03]
 trojan://b2799939-b293-4355-a51a-c2317c88afc9@e8e4ad34-301f-4b6a-929c-c02a7bdc7859.62dd6326-6357-4c87-94b7-06e277adea7c.c3b3b423-4c53-4570-bff7-462da591030b.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2002%20%7C%20%E7%9B%B4%E8%BF%9E
 
-# Try
+# nanoPort
+Jacky C., [2022/9/3 1:10]
+trojan://0261c119-5498-4f6e-ad1b-d4718637c5b8@20.205.14.195:12377?peer=20-187-95-105.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001%20%7C%20%E7%9B%B4%E8%BF%9E
 
+Jacky C., [2022/9/3 1:10]
+trojan://0261c119-5498-4f6e-ad1b-d4718637c5b8@20.239.185.238:12339?peer=20-187-95-105.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002%20%7C%20%E7%9B%B4%E8%BF%9E
 
 # Free
 
