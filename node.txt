@@ -5,39 +5,18 @@
 # BLACKPINK FAMILY VPN
 **************************************************************
 # 节点列表
-# Alink123
-Jacky C., [2022/9/15 0:19]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20704?allowInsecure=1&peer=tw.node.qchwnd.moe&tfo=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BEHiNet
+#
+Jacky C., [2022/9/15 22:51]
+trojan://0261c119-5498-4f6e-ad1b-d4718637c5b8@20.205.10.150:12377?peer=20-187-95-105.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E5%92%96%E5%96%B1%E9%B1%BC%E8%9B%8B%2001-D
 
-Jacky C., [2022/9/15 0:20]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20705?allowInsecure=1&peer=us.node.qchwnd.moe&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BDCogent
+Jacky C., [2022/9/15 22:51]
+trojan://0261c119-5498-4f6e-ad1b-d4718637c5b8@20.239.185.238:12339?peer=20-187-95-105.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E4%B8%9D%E8%A2%9C%E5%A5%B6%E8%8C%B6%2002-D
 
-Jacky C., [2022/9/15 0:20]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20706?allowInsecure=1&peer=usgt.node.qchwnd.moe&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BDGTT
+Jacky C., [2022/9/15 22:52]
+trojan://0261c119-5498-4f6e-ad1b-d4718637c5b8@20.239.52.101:12369?peer=20-187-95-105.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%2003-D
 
-Jacky C., [2022/9/15 0:20]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20709?allowInsecure=1&peer=fr.node.qchwnd.moe&tfo=1#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD
-
-Jacky C., [2022/9/15 0:20]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20708?allowInsecure=1&peer=ru.node.qchwnd.moe&tfo=1#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF
-
-Jacky C., [2022/9/15 0:20]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20711?allowInsecure=1&peer=tr.node.qchwnd.moe&tfo=1#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6
-
-Jacky C., [2022/9/15 0:21]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20712?allowInsecure=1&peer=cdn.qchwnd.moe&tfo=1#%F0%9F%87%B3%F0%9F%87%AC%20%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A
-
-Jacky C., [2022/9/15 0:21]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20713?allowInsecure=1&peer=cdn.qchwnd.moe&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1Scloud
-
-Jacky C., [2022/9/15 0:21]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20714?allowInsecure=1&peer=cdn.qchwnd.moe&tfo=1#%F0%9F%87%B9%F0%9F%87%AD%20%E6%B3%B0%E5%9B%BD
-
-Jacky C., [2022/9/15 0:21]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20715?allowInsecure=1&peer=cdn.qchwnd.moe&tfo=1#%F0%9F%87%B5%F0%9F%87%AD%20%E8%8F%B2%E5%BE%8B%E5%AE%BE
-
-Jacky C., [2022/9/15 0:21]
-trojan://983a0777-0079-414c-8064-2aba682cf272@910.48x.cc:20716?allowInsecure=1&peer=cdn.qchwnd.moe&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97
+Jacky C., [2022/9/15 22:52]
+trojan://0261c119-5498-4f6e-ad1b-d4718637c5b8@23.100.88.114:12388?peer=20-187-95-105.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E7%85%8E%E9%85%BF%E4%B8%89%E5%AE%9D%2004-D
 
 ***************************************************************
 End
