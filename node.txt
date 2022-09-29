@@ -5,9 +5,14 @@
 # BLACKPINK FAMILY VPN
 **************************************************************
 # 节点列表
-#
-Jacky C., [2022/9/17 1:07]
-ss://YWVzLTI1Ni1nY206NjQzOTQtWHhSa1JoMmEtWEZtSFhmTnpHaGRBQjVYdGd4Qm10eWNDOTQ1eGFzaHRAeHVpeXRob3ZubGtuY2Zxci1reGg1b2t0cXp6YzJiaXJuLTFlcmN4Y2E2aXV0Y2llanIuY2hpbmFwb2xpY2UueHl6OjM3NTQx#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2001
+Jacky C., [2022/9/30 2:39]
+trojan://6d5f9ea2-350e-44c1-ab23-9c8979eaea9b@jp01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2001%20%7C%20%E7%9B%B4%E8%BF%9E
+
+Jacky C., [2022/9/30 2:40]
+trojan://6d5f9ea2-350e-44c1-ab23-9c8979eaea9b@jp01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2002%20%7C%20%E7%9B%B4%E8%BF%9E
+
+Jacky C., [2022/9/30 2:40]
+trojan://6d5f9ea2-350e-44c1-ab23-9c8979eaea9b@sg1.18878a24-49d8-4fb2-a1e3-f37dce7cf2a8.718be37e-804f-4696-968e-948430a90029.b1a0a095-825a-4ab6-8f9a-6cc9cb171dd2.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%20%E7%9B%B4%E8%BF%9E
 
 ***************************************************************
 End
