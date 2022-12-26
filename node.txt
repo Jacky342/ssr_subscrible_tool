@@ -54,6 +54,9 @@ Jacky C., [2022/12/23 23:14]
 trojan://7acdaff2-c2bf-42dd-971d-2baffbdedeec@us1.b86235f9-aed1-4afd-a752-c255dfcf5bbe.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2004%20%7C%20%E4%B8%93%E7%BA%BF
 
 ---SCP---
+Uncle Lin - PCCW
+ssr://c2hnZXozLmV1Y2R1cmwubWU6NTY4OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz00NENNNkxXZTVZcXA0NENOU0VzdFVFTkRWeUJKVFZNJnByb3RvcGFyYW09TkRZNE1UZzZlWFZwTXpZNVoyaHEmb2Jmc3BhcmFtPQ
+
 Jacky C., [2022/12/26 0:57]
 vmess://YXV0bzoyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjlAY2YtbHQuc2hhcmVjZW50cmUub25saW5lOjQ0Mw?remarks=%E3%80%8C%E8%B5%9E%E5%8A%A9%E3%80%8DHK-CF-Gcore&obfsParam=hk.sharecentre.online&path=/shirker&obfs=websocket&tls=1&peer=hk.sharecentre.online&alterId=0
 
