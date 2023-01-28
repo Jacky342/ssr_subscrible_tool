@@ -40,6 +40,13 @@ trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@de1.cf4589a1-71ec-429f-b46a-892af2
 
 Jacky C., [2023/1/24 2:26]
 trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@us1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2001%20%7C%20%E4%B8%93%E7%BA%BF
+
+# 临时
+Jacky C., [2023/1/28 17:15]
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@t1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B3%E4%B8%B4%E6%97%B6%2001%20%7C%2025x%E8%AE%A1%E9%87%8F
+
+Jacky C., [2023/1/28 17:15]
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@t2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B3%E4%B8%B4%E6%97%B6%2002%20%7C%2025x%E8%AE%A1%E9%87%8F
 ***************************************************************
 End
 © 2022 GitHub, Inc. 
