@@ -6,13 +6,28 @@
 **************************************************************
 # 节点列表
 # 1
-trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2001%20%7C%20%E4%B8%93%E7%BA%BF
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@hk5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443/?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005%20%7C%20%E4%B8%93%E7%BA%BF
 
 # 2
-trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@hk6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443/?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2006%20%7C%20%E4%B8%93%E7%BA%BF
 
 # 3
-trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@hk7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443/?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2007%20%7C%20%E4%B8%93%E7%BA%BF
+
+# 4
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@us1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443/?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2001%20%7C%20%E8%A7%A3%E9%94%81%E4%B8%93%E7%94%A8
+
+# 5
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@us2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443/?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
+
+# 6
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@us3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443/?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2003%20%7C%20%E4%B8%93%E7%BA%BF
+
+# 7
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443/?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2001%20%7C%20%E4%B8%93%E7%BA%BF
+
+# 8
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443/?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
 ***************************************************************
 End
 © 2022 GitHub, Inc. 
