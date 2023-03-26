@@ -5,7 +5,14 @@
 # Rocket Rabbit
 **************************************************************
 # 节点列表
+# 1
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2001%20%7C%20%E4%B8%93%E7%BA%BF
 
+# 2
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
+
+# 3
+trojan://7ced7701-c03b-4c9f-8fe5-00cc129998b5@172.67.41.22:443?allowInsecure=1&peer=c1.777655.xyz&tfo=1&plugin=obfs-local;obfs=websocket;obfs-host=c1.777655.xyz;obfs-uri=/#%E8%8B%B1%E5%9B%BD%2002%20%7C%20%E4%B8%93%E7%BA%BF
 ***************************************************************
 End
 © 2022 GitHub, Inc. 
