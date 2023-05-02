@@ -5,17 +5,17 @@
 # BLACKPINK FAMILY
 ***************************************************************
 # 公告
-trojan://a0ccee56-b1c7-40c2-a23b-3c7b6b0e9483@104.22.68.72:443?allowInsecure=1&peer=c2.777655.xyz&plugin=obfs-local;obfs=websocket;obfs-host=;obfs-uri=#4%E6%9C%881%E6%97%A5%E8%B5%B7%E4%BB%B7%E6%A0%BC%E8%B0%83%E6%95%B4%E8%87%B325/%E6%9C%88
+ssr://MTk4LjE5OS4xMDEuMTUyOjgzODg6YXV0aF9jaGFpbl9hOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDovP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01cTJrNWFXWDZhU1E1YTZhNUx1M3dxVTBNaV9tbklnJmdyb3VwPVJHVm1ZWFZzZENCSGNtOTFjQQ
 ***************************************************************
 # 节点列表
 # 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjlhYTU3Yi0yYmNiLTQ4MTItODZmYS1mMDkwM2FmNDgwOWZAZ3kueWdkeWYuY29tOjI1MDM3#SG%20%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%B9%BF%E7%A7%BB
+
 
 # 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjlhYTU3Yi0yYmNiLTQ4MTItODZmYS1mMDkwM2FmNDgwOWZAZ2QueWdkeWYuY29tOjM4MzA0#SG%20%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%B9%BF%E7%94%B5
+
 
 # 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjlhYTU3Yi0yYmNiLTQ4MTItODZmYS1mMDkwM2FmNDgwOWZAZ2QueWdkeWYuY29tOjM4MzA0#SG%20%E6%96%B0%E5%8A%A0%E5%9D%A1-%E5%B9%BF%E7%94%B5
+
 
 # 4
 
