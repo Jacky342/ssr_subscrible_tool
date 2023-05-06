@@ -2,8 +2,6 @@
 # 思科系统(中国)网络技术有限公司合作商
 # 京ICP备05085544号-1
 ***************************************************************
-# ROCKET RABBIT
-***************************************************************
 # 公告
 ssr://MTk4LjE5OS4xMDEuMTUyOjgzODg6YXV0aF9jaGFpbl9hOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDovP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01cTJrNWFXWDZhU1E1YTZhNUx1M3dxVTBNaV9tbklnJmdyb3VwPVJHVm1ZWFZzZENCSGNtOTFjQQ
 ***************************************************************
