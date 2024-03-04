@@ -3,12 +3,11 @@
 # 京ICP备05085544号-1
 ******************************************
 # 节点列表
-# 公告 WeChat
-ss://YWVzLTI1Ni1nY206Y2U2MGFjNzItNDMyZS00NTg3LWI1NzctNzAzZDIxMDQ1YTcyQHNvdXRoZXIubm44OHFvem11LnRvcDoyMDkxMA#%E8%B4%AD%E4%B9%B0%E5%BE%AE%E4%BF%A1:Jacky_HK1(%E4%B8%8A%E4%B8%80%E4%B8%AA%E5%8F%B7%E5%B7%B2%E6%BB%A1%E5%91%98)
-
 # 1
+ssr://c2hhLmhleWlwcy5jb206NTAwMTA6YXV0aF9hZXMxMjhfc2hhMTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfYXV0aDpVSGxPUjNkRy8_cmVtYXJrcz01cGF3NVlxZzVaMmhJSHdnNUxpSzVyVzM1TGl0Nkwyc0lId2c1WVdONkxTNSZwcm90b3BhcmFtPU1UZ3hNVGs2UWsxc2NtVnYmb2Jmc3BhcmFtPU16QTRNemt4T0RFeE9TNXRhV055YjNOdlpuUXVZMjl0
 
 # 2
+ssr://c2hhLmhleWlwcy5jb206NTAwMTE6YXV0aF9hZXMxMjhfc2hhMTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfYXV0aDpVSGxPUjNkRy8_cmVtYXJrcz01NzZPNVp1OUlFRWdmQ0FnNUxpSzVyVzM1TGl0Nkwyc0lId2c1WVdONkxTNSZwcm90b3BhcmFtPU1UZ3hNVGs2UWsxc2NtVnYmb2Jmc3BhcmFtPU16QTRNemt4T0RFeE9TNXRhV055YjNOdlpuUXVZMjl0
 
 # 3
 
@@ -26,22 +25,6 @@ ss://YWVzLTI1Ni1nY206Y2U2MGFjNzItNDMyZS00NTg3LWI1NzctNzAzZDIxMDQ1YTcyQHNvdXRoZXI
 
 ＃ 10
 
-＃11
-
-＃12
-
-＃13
-
-＃14
-
-＃15
-
-＃16
-
-＃17
-
-＃18
-
 ***************************************************************
 End
-© 2022 GitHub, Inc. 
+© 2024 Jacky, Inc. 
