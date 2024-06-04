@@ -4,16 +4,16 @@
 ******************************************
 # 节点列表
 # 1
-ss://YWVzLTI1Ni1nY206ODk5NjIxNjYtMGM5ZS00MTQwLWI5MzktZGU2MTQyNzBmMjhhQHNvdXRoLmx0bHRsdGx0bHRsdGx0LnRvcDoyMDkxMA#%E9%A6%99%E6%B8%AF%2001
+vmess://bm9uZTo3NDRjZjE2MS0yMTU5LTQ4MGYtYjNiNC0yOWEzMTA4OTg0ZjVAMTA0LjE3LjY2Ljg1OjQ0Mw?remarks=MULTACOM%20(IPv4+IPv6)&obfsParam=stewart-boating-knowing-insurance.trycloudflare.com&path=/argox-vm?ed=2048&obfs=websocket&tls=1&peer=stewart-boating-knowing-insurance.trycloudflare.com&alterId=0
 
 # 2
-ss://YWVzLTI1Ni1nY206ODk5NjIxNjYtMGM5ZS00MTQwLWI5MzktZGU2MTQyNzBmMjhhQHNvdXRoLmx0bHRsdGx0bHRsdGx0LnRvcDoyMDkxMQ#%E9%A6%99%E6%B8%AF%2002
+
 
 # 3
-ss://YWVzLTI1Ni1nY206ODk5NjIxNjYtMGM5ZS00MTQwLWI5MzktZGU2MTQyNzBmMjhhQGVhc3QtMi5sdGx0bHRsdGx0bHRsdC50b3A6MjA5NTA#%E7%BE%8E%E5%9B%BD%2001
+
 
 # 4
-ss://YWVzLTI1Ni1nY206ODk5NjIxNjYtMGM5ZS00MTQwLWI5MzktZGU2MTQyNzBmMjhhQGVhc3QtMi5sdGx0bHRsdGx0bHRsdC50b3A6MjA5NTE#%E7%BE%8E%E5%9B%BD%2002
+
 
 ***************************************************************
 End
