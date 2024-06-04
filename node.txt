@@ -4,7 +4,7 @@
 ******************************************
 # 节点列表
 # 1
-vmess://bm9uZTo3NDRjZjE2MS0yMTU5LTQ4MGYtYjNiNC0yOWEzMTA4OTg0ZjVAMTA0LjE3LjY2Ljg1OjQ0Mw?remarks=MULTACOM%20(IPv4+IPv6)&obfsParam=stewart-boating-knowing-insurance.trycloudflare.com&path=/argox-vm?ed=2048&obfs=websocket&tls=1&peer=stewart-boating-knowing-insurance.trycloudflare.com&alterId=0
+
 
 # 2
 
