@@ -3,7 +3,8 @@
 # 京ICP备05085544号-1
 ******************************************
 # 节点列表
-
+Oracle - US
+vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMTQ0LjI0LjguMjE1IiwiYWRkIjoiMTQ0LjI0LjguMjE1IiwicG9ydCI6IjI4MzM2IiwiaWQiOiJmMzRjYzQwYy03NjU0LTRiYmUtOWIzNi00ODg4ODMyMTJlOGYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIn0=
 ***************************************************************
 End
 © 2024 Jacky, Inc. 
